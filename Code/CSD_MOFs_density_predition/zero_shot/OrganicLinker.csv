@@ -1,0 +1,101 @@
+precursor_name,cnt,smiles
+bpy,494,C1=CN=CC=C1C2=CC=NC=C2
+phen,300,C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1
+"2,20-bpy",205,C1=CC=NC(=C1)C2=CC=CC=N2
+H2bdc,185,C1=CC(=CC=C1C(=O)O)C(=O)O
+BTC,140,C1=C(C=C(C=C1C(=O)O)C(=O)O)C(=O)O
+nicotinic acid,112,C1=CC(=CN=C1)C(=O)O
+H 2 C 2 O 4,96,
+pyz,88,C1=CNN=C1
+imidazol,77,C1=CN=CN1
+BPP,63,C1CNCCC1CCCC2CCNCC2
+Bpe,55,C1=CN=CC=C1/C=C/C2=CC=NC=C2
+Na(dca),52,C(#N)[N-]C#N.[Na+]
+H 2 Suc,49,C(CC(=O)O)C(=O)O
+H2 PDC,38,C1=CC(=NC(=C1)C(=O)O)C(=O)O
+Ligand,36,
+bpdc,36,COC(=O)C1=CC=C(C=C1)C2=CC=C(C=C2)C(=O)OC
+bimb,35,C1=CC=C2C(=C1)NC=N2
+NaN 3,33,C(#N)[N-]C#N.[Na+]
+KCN,30,[C-]#N.[K+]
+bix,30,C1=CC(=CC=C1CN2C=CN=C2)CN3C=CN=C3
+H 2 pydc,30,C1(=CC=C([N]1)C(=O)O)C(=O)O
+H2C2O4.2H2O,29,O=C(O)C(=O)O.O.O
+Htrz,29,C1=NC=NN1
+en,28,C(CN)N
+BIB,28,C1=CC(=CC=C1CN2C=CN=C2)CN3C=CN=C3
+"1,2-bis(4-pyridyl)ethane",26,C1=CN=CC=C1CCC2=CC=NC=C2
+H 2 fdc,26, C(=C/C(=O)O)\C(=O)O
+H4 BPTC,26,C1=C(C=C(C=C1C(=O)O)C(=O)O)C2=CC(=CC(=C2)C(=O)O)C(=O)O
+phthalic acid,25,C1=CC=C(C(=C1)C(=O)O)C(=O)O
+H2OBA,23,C1=CC(=CC=C1C(=O)O)OC2=CC=C(C=C2)C(=O)O
+py,23,C1=CN=CC=N1
+Squaric acid,22,C(=C/C(=O)O)\C(=O)O
+"imidazole-4,5-dicarboxylic acid",22,C1=NC(=C(N1)C(=O)O)C(=O)O
+H 2 adp,21,C(CCC(=O)O)CC(=O)O
+DABCO,20,C1CN2CCN1CC2
+H 2 pda,20,C1=CC2=C(C3=C1C=CC(=N3)C(=O)O)N=C(C=C2)C(=O)O
+Bpa,20,C1=CN=CC=C1CCC2=CC=NC=C2
+H4BTEC,20,C1=C(C(=CC(=C1C(=O)O)C(=O)O)C(=O)O)C(=O)O
+5-Hydroxyisophthalic acid,20,C1=C(C=C(C=C1C(=O)O)O)C(=O)O
+5nitroisophthalic acid,19,C1=C(C=C(C=C1C(=O)O)[N+](=O)[O-])C(=O)O
+H3BTB,19,C1=CC(=CC=C1C2=CC(=CC(=C2)C3=CC=C(C=C3)C(=O)O)C4=CC=C(C=C4)C(=O)O)C(=O)O
+Na2 C2 O4,19, C(=O)(C(=O)[O-])[O-].[Na+].[Na+]
+piperazine,18,C1CNCCN1
+"1,3-bis(4-pyridyl)propane",18,C1CNCCC1CCCC2CCNCC2
+H3L,18,
+1,17,
+hmt,16,C1N2CN3CN1CN(C2)C3
+H2 NDC,16,C1=CC2=C(C=CC(=C2)C(=O)O)C=C1C(=O)O
+Maleic acid,16,C(=CC(=O)O)C(=O)O
+pyrazine,16,C1=CN=CC=N1
+"Benzene-1,2,3-tricarboxylic acid",16,C1=CC(=C(C(=C1)C(=O)O)C(=O)O)C(=O)O
+isophthalic acid,16,C1=CC(=CC(=C1)C(=O)O)C(=O)O
+H 3 Cit,15,C/C(=C/C(=O)O)/C(=O)O
+18crown-6,15,C1COCCOCCOCCOCCOCCO1
+salicylaldehyde,15,C1=CC=C(C(=C1)C=O)O
+benzoic acid,15,C1=CC(=CC=C1C2=CC=C(C=C2)O)C(=O)O
+Glycine,14,C(C(=O)O)N
+H2TDC,14,COC(=O)C1=CC=C(S1)C(=O)OC
+"1,3-di-4pyridylpropane",14,C1=CN=CC=C1CCCC2=CC=NC=C2
+"2,4-dichlorophenoxyacetic acid",13,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O
+5sulfosalicylic acid dihydrate,13,C1=CC(=C(C=C1S(=O)(=O)O)C(=O)O)O.O.O
+glutaric acid,13,C(CC(=O)O)CC(=O)O
+tib,13,C1=CN(C=N1)CC2=CC(=CC(=C2)CN3C=CN=C3)CN4C=CN=C4
+acetylenedicarboxylic acid,13,C(#CC(=O)O)C(=O)O
+"pyridine-2,5dicarboxylic acid",13,C1=CC(=NC=C1C(=O)O)C(=O)O
+L,13,
+Benzothiazole,12,C1=CC=C2C(=C1)N=CS2
+bibp,12,C1=CC(=CC=C1C2=CC=C(C=C2)C3=NC=CN3)C4=NC=CN4
+"pyrazine-2,3-dicarboxylic acid",12,C1=CN=C(C(=N1)C(=O)O)C(=O)O
+chelidamic acid,12,C1=C(NC(=CC1=O)C(=O)O)C(=O)O
+4-Carboxyphenoxyacetic acid,12,C1=CC(=CC=C1CC(=O)O)C(=O)O
+Malonic acid,11,C(C(=O)O)C(=O)O
+Citric Acid Monohydrate,11,C(C(=O)O)C(CC(=O)O)(C(=O)O)O.O
+"1,4-Naphthalenedicarboxylic Acid",11,C1=CC=C2C(=C1)C(=CC=C2C(=O)O)C(=O)O
+H2MIP,10,CC1=CC(=CC(=C1)C(=O)O)C(=O)O
+BIM,10,C1=CN=C(N1)C2=NC=CN2
+BBI,10,C1=CC(=CC=C1C2=CC(=NC(=C2)C3=CC=C(C=C3)C(=O)O)C4=CC=C(C=C4)C(=O)O)C5=CC(=NC(=C5)C6=CC=C(C=C6)C(=O)O)C7=CC=C(C=C7)C(=O)O
+diphenic acid,10,C1=CC=C(C(=C1)C2=CC=CC=C2C(=O)O)C(=O)O
+"Benzene-1,2,4,5-tetracarboxylic acid",10,C1=C(C(=CC(=C1C(=O)O)C(=O)O)C(=O)O)C(=O)O
+4-cyanopyridine,10,C1=CN=CC=C1C#N
+pz,10,C1=CN=CC=N1 
+2methylimidazole,10,CC1=NC=CN1
+"Biphenyl-3,3',4,4'tetracarboxylic acid",10,C1=CC2=C(C=C1C3=CC4=C(C=C3)C(=O)OC4=O)C(=O)OC2=O
+"4,4′oxybis(benzoic acid)",10,C1=CC(=CC=C1C2=CC=C(C=C2)O)C(=O)O
+"2,5-thiophene dicarboxylic acid",10,C1=C(SC(=C1)C(=O)O)C(=O)O
+H2SDBA,10,C1=CC(=CC=C1C(=O)O)S(=O)(=O)C2=CC=C(C=C2)C(=O)O
+suberic acid,10,C(CCCC(=O)O)CCC(=O)O
+"pyridine3,5-dicarboxylic acid",9,C1=C(C=NC=C1C(=O)O)C(=O)O 
+H2Fum,9,C(=C/C(=O)O)\C(=O)O
+2-aminopyrimidine,9,C(C(=O)O)NCC(=O)O
+5-Aminoisophthlic acid,9,C1=C(C=C(C=C1C(=O)O)N)C(=O)O
+CH 3 COOH,9,CC(=O)O
+disodium terephthalate,9,C1=CC(=CC=C1C(=O)[O-])C(=O)[O-].[Na+].[Na+]
+"3,5-dinitrosalicylic acid",9,C1=C(C=C(C(=C1C(=O)O)O)[N+](=O)[O-])[N+](=O)[O-]
+BDC,9,C1=CC(=CC=C1C(=O)O)C(=O)O
+4-aminopyridine,9,C1=CN=CC=C1N
+picolinic acid,9,C1=CC=NC(=C1)C(=O)O
+oPhenanthroline,8,C1=CC2=C(C3=C(C=CC=N3)C=C2)N=C1.O
+sodium hydrogen 3sulfobenzoate,8,
+BIP,8,

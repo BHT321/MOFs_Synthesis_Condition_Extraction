@@ -1,0 +1,100 @@
+precursor_name,cnt,formula,smiles
+Zn(NO3)2,478,Zn(NO3)2,[Zn+2].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+Cu(NO3)2,476,Cu(NO3)2,[Cu+2].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+CuCl2,311,CuCl2,[Cu+2].[Cl-].[Cl-]
+Cd(NO3)2,221,Cd(NO3)2,[Cd+2].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+MnCl2,193,MnCl2,[Mn+2].[Cl-].[Cl-]
+HNO3,187,HNO3,[N+](=O)(O)[O-]
+CoCl2,177,CoCl2,[Co+2].[Cl-].[Cl-]
+Cu(Ac)2,160,Cu(Ac)2,CC(=O)[O-].CC(=O)[O-].[Cu+2]
+Cd(Ac)2,160,Cd(Ac)2,CC(=O)[O-].[Cd+2]
+Zn(OAc)2,152,Zn(OAc)2,[Zn+2].[O-]C(=O)C.[O-]C(=O)C
+Co(NO3)2 6H2O,148,Co(NO3)2·6H2O,O.O.O.O.O.O.O.O.O.O.[Co+2].[O-][N+](=O)[O-]
+Cd(NO 3 )•4H 2 O,141,Cd(NO3)2·4H2O,O.O.O.O.O.[Cd+2].[O-][N+](=O)[O-]
+Co(NO3)2,124,Co(NO3)2,N(=O)(=O)[O-].N(=O)(=O)[O-].[Co+2]
+NiCl2,115,NiCl2,[Ni+2].[Cl-].[Cl-]
+ZnCl2,112,ZnCl2,[Zn+2].[Cl-].[Cl-]
+CdCl2,108,CdCl2,[Cd+2].[Cl-].[Cl-]
+Pb(NO3)2,86,Pb(NO3)2,[Pb+2].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+CuSO4,84,CuSO4,[O-]S(=O)(=O)[O-].[Cu+2]
+Co(Ac)2·H2O,78,Co(CH3COO)2·H2O,CC(=O)[O-].CC(=O)[O-].O.[Co+2]
+Mn(ClO4)2,63,Mn(ClO4)2,O.Cl[Mn](=O)(=O)OCl
+Mn(Ac)2,57,Mn(Ac)2,CC(=O)[O-].[Mn+2]
+NH4VO3,52,NH4VO3,[NH4+].[V](=O)([O-])[O-]
+Ni(NO3)2,51,Ni(NO3)2,[Ni+2].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+CuI,51,CuI,[Cu+].[I-]
+CdCl2·2H2O,48,CdCl2·2H2O,O.O.O.O.[Cd+2].[Cl-].[Cl-]
+PbCO3,47,PbCO3,O=C([O-])[O-].[Pb+2]
+Eu(NO3)3 6H2O,43,Eu(NO3)3·6H2O,O.O.O.O.O.O.O.O.O.O.[Eu+3].[O-][N+](=O)[O-].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+CdSO4,39,CdSO4,O=S(=O)([O-])[O-].[Cd+2]
+V2O5,38,V2O5,O=[V](=O)=O
+CoSO4 7H2O,38,CoSO4·7H2O,O.O.O.O.O.O.O.O.O.O.[Co+2].[O-]S(=O)(=O)[O-]
+Gd2O3,37,Gd2O3,O=[Gd]O[Gd]=O
+Co(ClO4)2,37,Co(ClO4)2,[O-]Cl(=O)(=O)=O.[O-]Cl(=O)(=O)=O.[Co+2]
+Na2WO4 2H2O,36,Na2WO4·2H2O,O.O.[Na+].[Na+].[O-][W](=O)(=O)[O-]
+ZnSO4,36,ZnSO4,[O-]S(=O)(=O)[O-].[Zn+2]
+MnSO4,36,MnSO4,O=S(=O)([O-])[O-].[Mn+2]
+Zn(ClO 4 ) 2,34,Zn(ClO4)2,O.Cl[Zn](=O)(=O)OCl
+Cd(ClO4)2·6H2O,32,Cd(ClO4)2·6H2O,O.O.O.O.O.O.O.O.[Cd+2].[O-][Cl](=O)(=O)=O.[O-][Cl](=O)(=O)=O
+Mn(OAc)4H2O,32,Mn(OAc)4·H2O,O.O.O=C[O-].[Mn+4].[O-]C=O.[O-]C=O.[O-]C=O
+Zn(OAC)2·2H2O,32,Zn(CH3COO)2·2H2O,CC(=O)[O-].CC(=O)[O-].O.O.[Zn+2]
+La(NO3)3 6H2O,31,La(NO3)3·6H2O,O.O.O.O.O.O.[La+3].[O-][N+](=O)[O-].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+Ni(NO3)2.H2O,29,Ni(NO3)2·H2O,O.[Ni+2].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+Gd(NO3)2·6H2O,29,Gd(NO3)2·6H2O,
+NiSO4.6H2O,28,NiSO4·6H2O,O.O.O.O.O.O.O.O.[Ni+2].[O-]S(=O)(=O)[O-]
+BaCl2 2H2O,28,BaCl2·2H2O,O.O.[Ba+2].[Cl-].[Cl-]
+CuCl,27,CuCl2,[Cu+2].[Cl-].[Cl-]
+MoO3,27,MoO3,O=[Mo](=O)=O
+U(NO3)2·6H2O,27,U(NO3)2·6H2O,O.O.O.O.O.O.O.O.O.O.[U+4].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+Ag2O,26,Ag2O,[Ag+].[Ag+].[O-2]
+HgCl2,25,HgCl2,[Hg+2].[Cl-].[Cl-]
+Pr(NO3)3 6H2O,25,Pr(NO3)3·6H2O,O.O.O.O.O.O.O.O.O.O.[Pr+3].[O-][N+](=O)[O-].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+AgNO3,25,AgNO3,[Ag+].[O-][N+](=O)[O-]
+CuBr2,24,CuBr2,Br[Cu]Br
+EuCl3 6H2O,23,EuCl3·6H2O,O.O.O.O.O.O.O.O.[Eu+3].[Cl-].[Cl-].[Cl-]
+Eu2O3,23,Eu2O3,[Eu+3].[Eu+3].[O-2].[O-2].[O-2]
+Tb(NO3)3 6H2O,23,Tb(NO3)3·6H2O,[Tb+3].[O-][N+](=O)[O-].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+AgBF4,22,AgBF4,F[B-](F)(F)(F)F.[Ag+]
+Ni(ClO4)2 6H2O,22,Ni(ClO4)2·6H2O,O.O.O.O.O.O.O.O.O.O.[Ni+2].[O-][Cl](=O)(=O)=O.[O-][Cl](=O)(=O)=O
+Tb(NO3)3,20,Tb(NO3)3,[Tb+3].[O-][N+](=O)[O-].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+LaCl 3,20,LaCl3,[La+3].[Cl-].[Cl-].[Cl-]
+FeSO4 7H2O,20,FeSO4·7H2O,O.O.O.O.O.O.O.O.[Fe+2].[O-]S(=O)(=O)[O-]
+Ce(NO 3 ) 3 $6H 2 O,20,Ce(NO3)3·6H2O,O.O.O.O.O.O.O.O.O.O.[Ce+3].[O-][N+](=O)[O-].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+AgClO4,20,AgClO4,[O-]Cl(=O)(=O)=O.[Ag+]
+CuBr,19,CuBr,Br[Cu]
+HgI2,19,HgI2,I[Hg]I
+magnesium nitrate,19,Mg(NO3)2,[Mg+2].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+FeCl3,19,FeCl3,[Fe+3].[Cl-].[Cl-].[Cl-]
+Ca(NO3)2,19,Ca(NO3)2,[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Ca+2]
+Sm(NO3)·6H2O,19,Sm(NO3)2·6H2O,O.O.O.O.O.O.[Sm+2].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+NaOH,19,NaOH,[Na+].[OH-]
+Mn(NO3)2·H2O,18,Mn(NO3)2·H2O,O.O.O.O.O.[Mn+2].[O-][N+](=O)[O-]
+Cu(NO3)2$2.5H2O,17,,
+La 2 O 3,17,La2O3,[La+3].[La+3].[O-2].[O-2].[O-2]
+Sm 2 O 3,16,Sm2O3,[Sm+3].[Sm+3].[O-2].[O-2].[O-2]
+Mn(CH3CO2)2‚4H2O,16,Mn(CH3CO2)2·4H2O,
+Na2MoO4.2H2O,16,Na2MoO4·2H2O,O.O.[Na+].[Na+].[O-][Mo](=O)(=O)[O-]
+HgBr2,16,HgBr2,Br[Hg]Br
+NdCl3.6H2O,16,NdCl3·6H2O,O.O.O.O.O.O.O.Cl[Nd]ClCl
+Eu(NO3)3,15,Eu(NO3)3,[Eu+3].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[N+](=O)([O-])[O-]
+Cu(ClO4)2,15,Cu(ClO4)2,[Cu+2].[O-][Cl](=O)(=O)=O.[O-][Cl](=O)(=O)=O
+Mn(NO3)2.6H2O,15,Mn(NO3)2·6H2O,O.O.O.O.O.O.[Mn+2].[O-][N+](=O)[O-].[O-][N+](=O)[O-]
+ZnO,15,ZnO,[Zn+2].[O-2]
+KOH,14,KOH,[K+].[OH-]
+Nd 2 O 3,14,Nd2O3,O=[Nd]O[Nd]=O
+FeCl 2,14,FeCl2,Cl[Fe]Cl
+CuO,14,CuO,O=[Cu]
+Cobalt chlorine hexahydrate,14,Cl2CoH12O6,O.O.O.O.O.O.[Cl-].[Cl-].[Co+2]
+ErCl3·6H2O,14,ErCl3·6H2O,O.O.O.O.O.O.Cl[Er](Cl)Cl
+AgCF3SO3,13,AgCF3SO3,FC(F)(F)S(=O)(=O)[O-].[Ag+]
+Ni(OAc)2 4H2O,13,Ni(OAc)2·4H2O,O.O.O.O.CC(=O)O[Ni]OC(=O)C
+Ni(OAc) 2 ·2H 2 O,13,Ni(OAc)2·2H2O,O.O.O.O=C[O-].[Ni+2].[O-]C=O
+SrCl 2 ·6H 2 O,13,SrCl2·6H2O,O.O.O.O.O.O.Cl[Sr]Cl
+CdBr2.4H2O,12,CdBr2·4H2O,Br[Cd]Br.[H2O]4
+CdI 2,12,CdI2,I[Cd]I
+CuSCN,12,CuSCN,N#[C-][S-].[Cu+]
+Ag3[Cr(ox)3],12,Ag3Cr(C2O4)3,[Ag+].[Ag+].[Ag+].[Cr+3]([O-]C(=O)C([O-])=O)([O-]C(=O)C([O-])=O)[O-]C(=O)C([O-])=O
+Ni(CHO2)2.H2O,12,Ni(CHO2)2·H2O,O.O.O=C[O-].[Ni+2].[O-]C=O
+Sr(CO3)2,12,Sr(CO3)2,[Sr+2].[O-]C(=O)[O-].[O-]C(=O)[O-]
+Ni(OAc)2·2H2O,11,Ni(OAc)2·2H2O,O.O.O.O=C[O-].[Ni+2].[O-]C=O
+Fe(ClO 4 ) 2 6H 2 O,11,Fe(ClO4)2·6H2O,O.O.O.O.O.O.O.O.[Fe+2].[O-][Cl](=O)(=O)=O.[O-][Cl](=O)(=O)=O

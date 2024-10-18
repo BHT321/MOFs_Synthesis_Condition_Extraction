@@ -1,0 +1,21 @@
+precursor_name,cnt,smiles
+H2O,4886,O
+MeOH,1470,CO
+EtOH,1008,CCO
+DMF,1000,CN(C)C=O
+MeCN,470,CC#N
+ether,133,CCOCC
+acetone,129,CC(=O)C
+THF,123,C(Cl)Cl
+DMA,117,CC(=O)N(C)C
+DCM,107,C1CCCO1
+py,96,N1C=CC=CC1
+ammonia,76,N
+CHCl3,75,C(Cl)(Cl)Cl
+DMSO,62,CS(=O)C
+hexane,55,CCCCCC
+toluene,55,Cc1ccccc1
+NaOH,47,[OH-].[Na+]
+HNO3,43,O=N(=O)O
+iPrOH,35,CC(C)O.CC(C)O
+CH 3 COOH,30,CC(=O)O
