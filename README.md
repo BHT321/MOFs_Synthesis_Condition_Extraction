@@ -1,7 +1,7 @@
 # MOFs_Synthesis_Condition_Extraction
 
 ## Dataset
-* Data 
+* Some data reported in the article. 
 
 ## Code  
 * The synthesis extraction code using GPT api.
