@@ -31,3 +31,8 @@
   - **SA Inference (Few-shot):** Extraction results obtained using few-shot extraction. After data cleaning and feature engineering, the surface area inference dataset is constructed. The surface area values are in the last column.
 
   - **SA Inference (Zero-shot):** Extraction results obtained using zero-shot extraction. After data cleaning and feature engineering, the surface area inference dataset is constructed. The surface area values are in the last column.
+
+  **Tabs related to the SIMM dataset include:**
+
+  - **Annotated Conditions (SIMM):** The cleaned 573 MOFs from SIMM datasets. In order to align the two manually annotated datasets, the original train and test datasets of SIMM are filtered and converted to JSON format using our human-AI annotation protocol.
+  
