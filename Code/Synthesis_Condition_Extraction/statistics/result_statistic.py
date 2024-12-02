@@ -3,10 +3,11 @@ This module defines the functions to calculate the score of results.
 Containing different statistics strategy, like calculate the result of one file, calculate by columns or calculate by one mof
 """
 
+import collections
+from typing import List
 import json
 import re
 import os
-from typing import List
 from io_handler import load_files, load_mof_file
 import pandas as pd
 
@@ -25,9 +26,21 @@ def change_name(s:str):
     remove error encodings and some unnecessary characters like comma.
     Only left alphabet and number.
     """
+    if not isinstance(s, str):
+        print("Get error item:", s)
+        return None
     if s.lower() == "nan":
         return None
     s = "".join([c for c in s if c in VALID_CHARS])
+    # remove_solution_names = ["solution", "distilled", "deionized", "hot", "solutions", "dilute"]
+    # for solution_name in remove_solution_names:
+    #     s = s.replace(solution_name, "").strip()
+    # replce_solution_names = {
+    #     "aqueous": "water",
+    #     "methanolic": "methanol"
+    # }
+    # for name in replce_solution_names:
+    #     s = s.replace(name, replce_solution_names[name])
     return s.lower()
 
 def generate_name_amount_dict(dict_list):
@@ -35,27 +48,36 @@ def generate_name_amount_dict(dict_list):
     Generate a dict mapping name to amount.
     Parsed the solvent volumn to add amounts togather.
     """
-    parsed_d, n_parsed_d = {}, {}
+    assert isinstance(dict_list, list)
+    parsed_d, n_parsed_d = {}, collections.defaultdict(list)
     for item in dict_list:
+        assert isinstance(item, dict)
         name, amount = change_name(item.get("precursor_name", "")), change_name(item.get("amount", ""))
         if not name:
             continue
         if "notspecified" == amount:
             amount = ""
+        if amount is None:
+            amount = ""
         match_obj = re.match(r"(\d+(\.\d+)?)ml", amount.replace(" ", ""), re.I)
         if match_obj:
             parsed_d[name] = parsed_d.get(name, 0) + float(match_obj.group(1))
         else:
-            n_parsed_d[name] = amount
-    name_amount_d = {}
-    for name in set(list(parsed_d.keys()) + list(n_parsed_d.keys())):
-        if name in parsed_d:
-            name_amount_d[name] = str(parsed_d[name]) + "mL"
-        else:
-            name_amount_d[name] = n_parsed_d[name]
-    
+            n_parsed_d[name].append(amount)
+    name_amount_d = collections.defaultdict(list)
+    for name in parsed_d.keys():
+        name_amount_d[name].append(change_name(str(parsed_d[name]) + "ml"))
+    for name in n_parsed_d.keys():
+        is_empty = False
+        for amount in n_parsed_d[name]:
+            if amount == "":
+                is_empty = True
+                continue
+            name_amount_d[name].append(amount)
+        if is_empty and len(name_amount_d[name]) == 0:
+            name_amount_d[name].append("")
     return name_amount_d
-
+    
 
 def check_same_by_paragraph_only_name(true_labels:List[str], pred_labels:List[str], cnt:dict):
     """
@@ -100,14 +122,6 @@ def check_same_by_paragraph_and_split_name_amount(true_labels, pred_labels, cnt,
     """
     # this means current result has both name and amount
     if isinstance(cnt, list):
-        # true_labels = {
-        #     change_name(d["precursor_name"]): change_name(d.get("amount", "")) 
-        #     for d in true_labels if change_name(d["precursor_name"])# and change_name(d.get("amount", ""))
-        #     }
-        # pred_labels = {
-        #     change_name(d["precursor_name"]): change_name(d["amount"]) 
-        #     for d in pred_labels if change_name(d["precursor_name"])# and change_name(d.get("amount", ""))
-        #     }
         true_labels = generate_name_amount_dict(true_labels)
         pred_labels = generate_name_amount_dict(pred_labels)
         name_cnt, amount_cnt = cnt
@@ -130,7 +144,7 @@ def check_same_by_paragraph_and_split_name_amount(true_labels, pred_labels, cnt,
         elif set(true_labels.keys()) == set(pred_labels.keys()):
             name_cnt["TP"] += 1
             for name, amount1 in true_labels.items():
-                if amount1 != pred_labels[name]:
+                if collections.Counter(amount1) != collections.Counter(pred_labels[name]):
                     amount_cnt["FP"] += 1
                     return False
             amount_cnt["TP"] += 1
@@ -142,6 +156,7 @@ def check_same_by_paragraph_and_split_name_amount(true_labels, pred_labels, cnt,
             return False
     # this means current results is mof name
     elif is_mof_name:
+        assert is_mof_name != True
         true_labels = set([change_name(label) for label in true_labels if change_name(label)])
         pred_labels = set([change_name(label) for label in pred_labels if change_name(label)])
         return check_same_mof_name(true_labels, pred_labels, cnt)
@@ -150,18 +165,18 @@ def check_same_by_paragraph_and_split_name_amount(true_labels, pred_labels, cnt,
         pred_labels = set([change_name(label) for label in pred_labels if change_name(label)])
         return check_same_by_paragraph_only_name(true_labels, pred_labels, cnt)
     
-def check_same_by_paragraph(true_labels, pred_labels, cnt):
-    item = true_labels[0] if len(true_labels) > 0 else (pred_labels[0] if len(pred_labels) > 0 else None)
-    if isinstance(item, dict):
-        true_labels = set(["precursor_name@"+change_name(d["precursor_name"])+"@amount@"+change_name(d["amount"]) for d in true_labels if change_name(d["precursor_name"]) and change_name(d["amount"])])
-        pred_labels = set(["precursor_name@"+change_name(d["precursor_name"])+"@amount@"+change_name(d["amount"]) for d in pred_labels if change_name(d["precursor_name"]) and change_name(d["amount"])])
-    else:
-        true_labels = set([change_name(label) for label in true_labels if change_name(label)])
-        pred_labels = set([change_name(label) for label in pred_labels if change_name(label)])
-        check_same_by_paragraph_only_name(true_labels, pred_labels, cnt)
+# def check_same_by_paragraph(true_labels, pred_labels, cnt):
+#     item = true_labels[0] if len(true_labels) > 0 else (pred_labels[0] if len(pred_labels) > 0 else None)
+#     if isinstance(item, dict):
+#         true_labels = set(["precursor_name@"+change_name(d["precursor_name"])+"@amount@"+change_name(d["amount"]) for d in true_labels if change_name(d["precursor_name"]) and change_name(d["amount"])])
+#         pred_labels = set(["precursor_name@"+change_name(d["precursor_name"])+"@amount@"+change_name(d["amount"]) for d in pred_labels if change_name(d["precursor_name"]) and change_name(d["amount"])])
+#     else:
+#         true_labels = set([change_name(label) for label in true_labels if change_name(label)])
+#         pred_labels = set([change_name(label) for label in pred_labels if change_name(label)])
+#         check_same_by_paragraph_only_name(true_labels, pred_labels, cnt)
     
 def check_same(true_labels, pred_labels, cnt, version=1, is_mof_name=False):
-    item = true_labels[0] if len(true_labels) > 0 else (pred_labels[0] if len(pred_labels) > 0 else None)
+    assert isinstance(true_labels, list) and isinstance(pred_labels, list)
     # Version 1, calculate by paragraphs
     if version == 1:
         return check_same_by_paragraph_and_split_name_amount(true_labels, pred_labels, cnt, is_mof_name)
@@ -172,19 +187,27 @@ def check_same(true_labels, pred_labels, cnt, version=1, is_mof_name=False):
 
 def select_result(true_labels, results):
     return -1
-    true_labels = set([change_name(label) for label in true_labels])
-    for index, result in enumerate(results):
-        pred_labels = set(change_name(label) for label in result.get("Compound_Name", []))
-        if len(pred_labels & true_labels) > 0:
-            return index
-    return 0
 
 def cal_score(cnt, version):
-    cnt["precision"] = cnt["TP"] / max(cnt["TP"] + cnt["FP"], 1)
-    cnt["recall"] = cnt["TP"] / max(cnt["TP"] + cnt["FN"], 1)
-    cnt["F1"] = 2 * cnt["precision"] * cnt["recall"] / max(cnt["precision"] + cnt["recall"], 1)
-    if version == 1:
-        cnt["acc"] = (cnt["TP"] + cnt["TN"]) / max(cnt["TP"] + cnt["TN"] + cnt["FP"] + cnt["FN"], 1)
+    if (cnt["TP"] + cnt["FP"]) != 0:
+        cnt["precision"] = cnt["TP"] / (cnt["TP"] + cnt["FP"])
+    else:
+        cnt["precision"] = 0
+
+    if (cnt["TP"] + cnt["FN"]) != 0:
+        cnt["recall"] = cnt["TP"] / (cnt["TP"] + cnt["FN"])
+    else:
+        cnt["recall"] = 0
+
+    if (cnt["precision"] + cnt["recall"]) != 0:
+        cnt["F1"] = 2 * cnt["precision"] * cnt["recall"] / (cnt["precision"] + cnt["recall"])
+    else:
+        cnt["F1"] = 0
+
+    if (cnt["TP"] + cnt["TN"] + cnt["FP"] + cnt["FN"]) != 0:
+        cnt["acc"] = (cnt["TP"] + cnt["TN"]) / (cnt["TP"] + cnt["TN"] + cnt["FP"] + cnt["FN"])
+    else:
+        cnt["acc"] = 0
 
 
 
@@ -197,48 +220,35 @@ def cal_data(data, version):
 
     # statistics for each data
     for mof_index, mof_json in enumerate(data):
-        # assert len(load_mof_file()) == 123
-        # if mof_json["mof_id"] not in load_mof_file():
-        #     continue
-        # # # replace annotation
-        # if mof_json["mof_id"] in replace_dict:
-        #     for replace_column_name in replace_columns:
-        #         mof_json[replace_column_name] = replace_dict[mof_json["mof_id"]][replace_column_name]
-        if "result" not in mof_json or not mof_json["result"] or\
-            not (isinstance(mof_json["result"], list) or isinstance(mof_json["result"], dict)) or\
-            len(mof_json["result"]) == 0:
-            missing_result += 1
-            continue
-        
+        # extraction_results should be all possible synthesis processes
+        extraction_results:list = mof_json.get("result", None)
+        if extraction_results is None:
+            extraction_results = [{}]
         if isinstance(mof_json["result"], dict):
-            mof_json["result"] = [mof_json["result"]]
-        try:
+            extraction_results = [mof_json["result"]]
 
-            result_index = select_result(mof_json.get("Compound_Name", None), mof_json["result"])
-            # check_same(mof_json["Compound_Name"], mof_json["result"][result_index]["Compound_Name"], 
-            #         column_to_confusion_matrix["mof_name"], version, is_mof_name=True)
-            check_same(mof_json["Metal_Source"], mof_json["result"][result_index]["Metal_Source"], 
-                    [column_to_confusion_matrix["metal_name"], column_to_confusion_matrix["metal_amount"]], version)
-            check_same(mof_json["Organic_Linker"], mof_json["result"][result_index]["Organic_Linker"], 
-                    [column_to_confusion_matrix["organic_name"], column_to_confusion_matrix["organic_amount"]], version)
-            check_same(mof_json["Solvent"], mof_json["result"][result_index]["Solvent"], 
-                    [column_to_confusion_matrix["solvent_name"], column_to_confusion_matrix["solvent_amount"]], version)
-            check_same(mof_json["Modulator"], mof_json["result"][result_index]["Modulator"], 
-                    [column_to_confusion_matrix["modulator_name"], column_to_confusion_matrix["modulator_amount"]], version)
-            check_same(mof_json["Reaction_Time"], mof_json["result"][result_index]["Reaction_Time"], 
-                    column_to_confusion_matrix["reaction_time"], version)
-            check_same(mof_json["Reaction_Temperature"], mof_json["result"][result_index]["Reaction_Temperature"], 
-                    column_to_confusion_matrix["reaction_temp"], version)
-            # check_same(mof_json["Active_Time"], mof_json["result"][result_index]["Active_Time"], 
-            #         column_to_confusion_matrix["active_time"], version)
-            # check_same(mof_json["Active_Temperature"], mof_json["result"][result_index]["Active_Temperature"], 
-            #         column_to_confusion_matrix["active_temp"], version)
-        except Exception as e:
-            print(e)
-            missing_result += 1
+        result_index = select_result(mof_json.get("Compound_Name", None), extraction_results)
+        assert isinstance(extraction_results, list)
+        # extraction_result is the matched synthesis process
+        if len(extraction_results) == 0:
+            extraction_result:dict = {}
+        else:
+            extraction_result:dict = extraction_results[result_index]
+
+        for key, cnt_list in [
+            ("Metal_Source", [column_to_confusion_matrix["metal_name"], column_to_confusion_matrix["metal_amount"]]),
+            ("Organic_Linker", [column_to_confusion_matrix["organic_name"], column_to_confusion_matrix["organic_amount"]]),
+            ("Solvent", [column_to_confusion_matrix["solvent_name"], column_to_confusion_matrix["solvent_amount"]]),
+            ("Modulator", [column_to_confusion_matrix["modulator_name"], column_to_confusion_matrix["modulator_amount"]]),
+            ("Reaction_Time", column_to_confusion_matrix["reaction_time"]),
+            ("Reaction_Temperature", column_to_confusion_matrix["reaction_temp"])
+        ]:
+            check_same(mof_json[key], extraction_result.get(key, []), 
+                cnt_list, version)
     result = {}
     result["missing"] = missing_result
     for column_name in COLUMN_NAMES:
+        assert sum(column_to_confusion_matrix[column_name].values()) == len(data) > 0
         cal_score(column_to_confusion_matrix[column_name], version)
         result.update({f"{column_name}_{key}": value for key, value in column_to_confusion_matrix[column_name].items()})
     for score_name in SCORE_NAMES:
@@ -263,26 +273,35 @@ def cal_one_result_for_each_condition(mof_json, version=1):
         for key in cnt:
             if cnt[key] == 1:
                 return key
-    if isinstance(mof_json["result"], dict):
-        mof_json["result"] = [mof_json["result"]]
+            
     column_to_confusion_matrix = {column_name:{"TP": 0, "FP": 0, "TN": 0, "FN": 0} for column_name in COLUMN_NAMES}
-    if not mof_json["result"] or len(mof_json["result"]) == 0:
-        mof_json["result"] = [{column_name:[] for column_name in ["Reaction_Time","Reaction_Temperature","Metal_Source","Solvent","Organic_Linker","Modulator"]}]
-    result_index = select_result(mof_json.get("Compound_Name", None), mof_json["result"])
-    # check_same(mof_json["Compound_Name"], mof_json["result"][result_index]["Compound_Name"], 
-    #         column_to_confusion_matrix["mof_name"], version, is_mof_name=True)
-    check_same(mof_json["Metal_Source"], mof_json["result"][result_index]["Metal_Source"], 
-            [column_to_confusion_matrix["metal_name"], column_to_confusion_matrix["metal_amount"]], version)
-    check_same(mof_json["Organic_Linker"], mof_json["result"][result_index]["Organic_Linker"], 
-            [column_to_confusion_matrix["organic_name"], column_to_confusion_matrix["organic_amount"]], version)
-    check_same(mof_json["Solvent"], mof_json["result"][result_index]["Solvent"], 
-            [column_to_confusion_matrix["solvent_name"], column_to_confusion_matrix["solvent_amount"]], version)
-    check_same(mof_json["Modulator"], mof_json["result"][result_index]["Modulator"], 
-            [column_to_confusion_matrix["modulator_name"], column_to_confusion_matrix["modulator_amount"]], version)
-    check_same(mof_json["Reaction_Time"], mof_json["result"][result_index]["Reaction_Time"], 
-            column_to_confusion_matrix["reaction_time"], version)
-    check_same(mof_json["Reaction_Temperature"], mof_json["result"][result_index]["Reaction_Temperature"], 
-            column_to_confusion_matrix["reaction_temp"], version)
+    
+    # extraction_results should be all possible synthesis processes
+    extraction_results:list = mof_json.get("result", None)
+    if extraction_results is None:
+        extraction_results = [{}]
+    if isinstance(mof_json["result"], dict):
+        extraction_results = [mof_json["result"]]
+
+    result_index = select_result(mof_json.get("Compound_Name", None), extraction_results)
+    assert isinstance(extraction_results, list)
+    # extraction_result is the matched synthesis process
+    if len(extraction_results) == 0:
+        extraction_result:dict = {}
+    else:
+        extraction_result:dict = extraction_results[result_index]
+
+    for key, cnt_list in [
+            ("Metal_Source", [column_to_confusion_matrix["metal_name"], column_to_confusion_matrix["metal_amount"]]),
+            ("Organic_Linker", [column_to_confusion_matrix["organic_name"], column_to_confusion_matrix["organic_amount"]]),
+            ("Solvent", [column_to_confusion_matrix["solvent_name"], column_to_confusion_matrix["solvent_amount"]]),
+            ("Modulator", [column_to_confusion_matrix["modulator_name"], column_to_confusion_matrix["modulator_amount"]]),
+            ("Reaction_Time", column_to_confusion_matrix["reaction_time"]),
+            ("Reaction_Temperature", column_to_confusion_matrix["reaction_temp"])
+        ]:
+        check_same(mof_json[key], extraction_result.get(key, {}), 
+            cnt_list, version)
+        
     for column_name in COLUMN_NAMES:
         column_to_confusion_matrix[column_name] = get_cnt_result(column_to_confusion_matrix[column_name])
     mof_json["column_scores"] = column_to_confusion_matrix
