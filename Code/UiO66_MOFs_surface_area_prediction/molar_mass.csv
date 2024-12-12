@@ -1,0 +1,12 @@
+precursor_name,type,molar_mass
+ZrCl4,MetalSource,233.02 g/mol
+ZrOCl2·8H2O,MetalSource,178.12 g/mol
+H2BDC,OrganicLinker,166.13 g/mol
+DMF,Solvent,73.09 g/mol
+H2O,Solvent,18.02 g/mol
+HAc,Solvent,60.05 g/mol
+EtOH,Solvent,46.08 g/mol
+HCl,Solvent,36.46 g/mol
+MeOH,Solvent,32.04 g/mol
+formic acid,Solvent,46.03 g/mol
+BA,Modulator,122.12 g/mol

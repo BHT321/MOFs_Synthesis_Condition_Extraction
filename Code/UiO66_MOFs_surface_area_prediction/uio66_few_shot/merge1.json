@@ -1,0 +1,49 @@
+{
+"MOF_OrganicLinker": {
+    "H2BDC": ["H2BDC", "H 2 bdc","Terephthalic acid","BDC","1,4-benzenedicarboxylic acid","terephthalic acid (H 2 BDC)","PTA","TPA","terephthalic acid (BDC)","1,4-benzendicarboxylic acid (BDC)","1,4-benzenedicarboxylic acid (BDC)","benzene-1,4-dicarboxylic acid","terephthalic acid (TPA)","terephthalic acid (H 2 BDC","1,4-benzenedicarboxylic acid (H 2 BDC","H 2 BDC","1,4-benzenedicarboxylate (bdc)","p-phthalic acid (PTA)","1,4-benzenedicarboxylic acid (H 2 BDC)","benzene dicarboxylic acid (BDC)","H 2 bdc (benzene-1,4-dicarboxylic acid)","terephthalic acid (TA)","1,4benzenedicarboxylic acid","1,4 benzenedicarboxylic acid (BDC)","p-phthalic acid","1,4-benzendicarboxylic acid","terephtalic acid","BDC (PET-derived or commercial)","benzene-1,4-dicarboxylic acid (H 2 BDC","terephthalic acid (HBDC)","terephthalic acid (C 6 H 4 (COOH) 2 )","1,4BDC","terephthalic  acid","BDC (1,4-benzenedicarboxylic acid)","benzene-dicarboxylic acid (H 2 BDC)","PET derived BDC","1, 4-benzene dicarboxylic acid","H2BDC","1,4benzenedicarboxylic acid (H 2 BDC)","PET-derived BDC","BDC-H","H 2 -BDC (benzene-1, 4, dicarboxylic acid)","1,4-benzene dicarboxylic acid (H 2 bdc)","terephthalic acid   (H 2 BDC)","1, 4-benzendicarboxylic acid (H 2 BDC)","benzenedicarboxylic acid (H 2 BDC)","1,4-H 2 BDC","1,4-benzenedicarboxylate (bdc","C 8 H 6 O 4", "Benzen-1,4-dicaboxylic (H 2 BDC)", "PTA (terephthalic acid)", "Benzen-1,4-dicaboxylic (H 2 BDC)"],
+    "H2NDC": ["H2NDC"],
+    "ligand": ["organic ligand","ligand"],
+    "BDC-NH2": ["BDC-NH 2"],
+    "BA": ["benzoic acid", "BA"],
+    "H2BTC": ["H 2 BTC", "H2BTC"]
+}
+
+,
+
+"MOF_Solvent": {
+    "DMF": ["DMF","N,N-dimethylformamide (DMF)", "N,N 0 -dimethyl formamide","dimethylformamide (DMF)","N,Ndimethylformamide (DMF)","N,N-dimethylformamide","dimethylformamide","DMF (N,N-Dimethylformamide)","N, N-dimethylformamide","N, N-dimethylformamide (DMF)","N,N'-dimethylformamide","N, N-dimethyl formamide (DMF, C 3 H 7 NO, 99%)","N,N-DMF","N,N-dimethyl formamide","anhydrous N,N-dimethylformamide (DMF)","dry DMF","N,Ndimethylformanmide (DMF)","N,N-dimethylformamide (DMF) anhydrous","N, N'-dimethylformamide (DMF","N,N' -dimethyl formamide","N, N'-dimethylformamide (DMF)","N,N 0 dimethylformamide (DMF)","N,N-dimethylformamide  (DMF)","N ,N 0 -dimethylformamide (DMF)","N,N'-dimethylformamide (DMF"],
+    "HAc": ["acetic acid","HAc","HOAc", "AA", "water/acetic acid mixed solvent"],
+    "EtOH": ["ethanol","EtOH","alcohol"],
+    "H2O": ["H 2 O","water","deionized (DI) water","de-ionized water","deionized water","H2O", "DI water"],
+    "formic acid": ["formic acid"],
+    "MeOH": ["methanol","anhydrous methanol"],
+    "hydrochloric acid": ["hydrochloric acid"],
+    "1-propanol": ["1-propanol"],
+    "acetone": ["acetone"],
+    "DMA": ["N,N-dimethylacetamide (DMA)", "DMA"],
+    "ACN": ["ACN"]
+},
+
+"MOF_MetalSource": {
+    "ZrCl4": ["ZrCl 4","zirconium chloride","Zirconium tetrachloride","zirconium chloride (ZrCl 4 )","ZrCl4","zirconium tetrachloride (ZrCl 4 )","Zirconium(IV) chloride","zirconium chloride (ZrCl 4","zirconium (IV) chloride (ZrCl 4 )","zirconium chloride  (ZrCl 4 )","ZrCl 4","zirconium chlori de","ZrCl 4","zirconium tetrachloride (ZrCl 4","Zirconium (IV) chloride","zirconium (IV) chloride   (ZrCl 4 )","ZrCl 4 solution in DMF", "Zircomium tetrachloride (ZrCl 4"],
+    "ZrOCl2·8H2O": ["ZrOCl 2 *8H 2 O","ZrOCl 2 $8H 2 O","ZrOCl 2","ZrOCl 2 .8H 2 O","zirconium oxychloride octahydrate (ZrOCl 2 *8H 2 O)","ZrOCl 2 8H 2 O","ZrOCl28H2O"],
+    "zirconium propoxide": ["zirconium propoxide solution","zirconium( IV) propoxide", "zirconium propoxide (Zr(OnPr)4)"],
+    "zirconium metal precursor": ["zirconium metal precursor"],
+    "zirconyl nitrate hydrate": ["zirconyl nitrate hydrate"],
+    "ZrCl2": ["ZrCl 2"],
+    "Zr(NO3)4": ["Zr(NO 3 ) 4"]
+},
+
+"MOF_Modulator": {
+    "HAc": ["acetic acid","glacial acetic acid","CH 3 COOH","HAc","acetic acid (CH 3 COOH)","acetic acid (AcOH","acetic acid glacial","acetic acid (glacial)"],
+    "HCl": ["HCl","concentrated HCl","hydrochloric acid","concentrated hydrochloric acid (HCl)","37% HCl","hydrochloric acid (HCl","36% HCl","HCl solution","HCl (37%)","hydrochloric acid (HCl)","HCl (37% solution)","HCl (37 %) solution","HCl 1,2 M", "c.HCl"],
+    "formic acid": ["formic acid"],
+    "BA": ["benzoic acid","benzoic acid (BA)","C 6 H 5 COOH","benzoic acid (C 6 H 5 COOH","BA"],
+    "H2O": ["Deionized water","H 2 O","H2O"],
+    "PVP": ["PVP"],
+    "ammonia aqueous": ["ammonia aqueous"],
+    "TEABr": ["TEABr (tetraethylammonium bromide)"],
+    "TFA": ["trifluoroacetic acid (TFA)"],
+    "triethylamine": ["triethylamine"]
+}
+}
