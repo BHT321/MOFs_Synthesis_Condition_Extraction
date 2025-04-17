@@ -33,4 +33,4 @@ This code is used to process the extaction result of UiO-66 MOFs and generate a 
 
 
 **Time**: it will takes about 30 minutes to prepare data and train models.
-**Result**: the few-shot results will be about 0.14 and the zero-shot results will be about 0.7.
+**Result**: the few-shot results will be about 0.14 and the zero-shot results will be about 0.07.
