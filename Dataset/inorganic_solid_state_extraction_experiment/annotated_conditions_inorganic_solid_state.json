@@ -1,0 +1,591 @@
+[
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1039/C6TB00965D",
+    "operations": [
+      {
+        "token": "stirring",
+        "mixing_device": "magnetic stirrer",
+        "mixing_media": "water"
+      },
+      {
+        "token": "added",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "stirred",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "added",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "adjusted",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "poured",
+        "mixing_device": "Teflon",
+        "mixing_media": null
+      },
+      {
+        "token": "added",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "mixing",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "mixed",
+		"mixing_device": "mortar",
+		"mixing_media": "ethanol"
+      }
+    ],
+    "paragraph": "Zinc molybdate phosphors doped with Tm 3+ and Yb 3+ ions, ZnMoO 4 :Tm 3+ ,Yb 3+ , were prepared by a hydrothermal (HT) process. In a typical hydrothermal reaction, a 10 mM mixture of Zn/Yb/Tm (Zn(NO 3 ) 2 4H 2 O/Yb(NO 3 ) 3 5H 2 O/Tm(NO 3 )5H 2 O) in distilled water was prepared in a beaker by constant stirring with a magnetic stirrer. In the above solution, 10 mM cetyltrimethylammonium bromide (CTAB) was added and stirred for about 1 hour to obtain a transparent solution. The amount of CTAB was fixed to adjust the ratio of metal ions to CTAB uniformly such that all the metal ions get properly capped by CTAB. In a separate beaker, 10 mM (NH 4 ) 6 Mo 7 O 24 4H 2 O was prepared in distilled water and added to the above solution drop by drop. The pH of the resulting solution was adjusted to about 9 using aqueous ammonia solution. Then, 30 mL of the colloidal suspension obtained above was poured into a 50 mL Teflon lined stainless steel autoclave and kept at 180 1C for various time periods. In the case of alkali metal ion substituted samples, an appropriate amount of MNO 3 (M = Li, Na, K, Rb) was added into the Zn solution before mixing with the Mo-solution.\nThe solid obtained was centrifuged, washed multiple times with distilled water followed by ethanol and freeze dried for 12 hours.\nThe powder sample was further calcined at various temperatures from 500 1Cto8001C for 3 h to get the final highly crystalline oxide phosphor. For comparison, ZnMoO 4 :Tm 3+ ,Yb 3+ samples were also prepared by a solid-state reaction method. In the solid-state reaction, analytical grade ZnCO 3 , MoO 3 ,Yb 2 O 3 ,Tm 2 O 3 and M 2 CO 3 (M = Li, Na, K, Rb) were mixed thoroughly with the help of ethanol using a mortar and pestle, dried in air and calcined at 650 1C for 3 h.",
+    "doi": "10.1039/C6TB00965D"
+  },
+    {
+    "synthesis_type": "solid-state",
+    "doi": "10.1039/c2jm32024j",
+    "operations": [
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "reground",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "placed",
+        "mixing_device": null,
+		"mixing_media": "ethanol"
+      },
+      {
+        "token": "reground",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "O3-LiCoO 2 was synthesized via solid-state reactions. Li 2 CO 3 (99.99%, Kojundo Chemical Laboratory) and Co 3 O 4 (99.9%, Rare Metallic) were used as the starting materials. The required amounts of starting materials were mixed and calcined at 650  C for 12 h in air. The product was then reground, pressed into pellets and sintered at 900  C for 24 h in an Al 2 O 3 tube in air.\nO2-LiCoO 2 was synthesized by an ion-exchange reaction from P2-Na 0.70 CoO 2 precursor. To prepare the precursor, a mixture of Na 2 CO 3 (99.9%, Rare Metallic) and Co 3 O 4 was calcined at 650  C for 12 h in air, after which the reground product was pressed into pellets and sintered at 800  C for 12 h in an Al 2 O 3 tube under O 2 ﬂow. The prepared P2-Na 0.70 CoO 2 was then placed into a LiBr solution in ethanol (2 M) and exchanged at 95  C for 3 days. Following the exchange, the obtained powder was washed in ethanol, ﬁltered, and dried at 130  C under vacuum.\nSynchrotron XAFS and XRD analyses of the pristine and de-intercalated lithium cobalt oxide samples were then carried out to investigate the lithium-ion de-intercalation processes. The electrode was made from suspensions containing 80 wt% active material, 10 wt% acetylene black, and 10 wt% polyvinylidene diﬂuoride, which were cast and pressed on an aluminum foil. The electrodes were assembled in a two-electrode cell using metallic lithium foil as a counter/reference electrode. A 1 mol dm 3 ethylene carbonate/dimethyl carbonate solution of LiPF 6 was used as the liquid electrolyte. Electrochemical de-intercalation of the lithium ion was carried out at a constant current rate of 1/40 C (about 0.042 mA cm 2 ).",
+    "doi": "10.1039/c2jm32024j"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1016/j.snb.2016.08.176",
+    "operations": [
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "dissolved",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "stirring",
+        "mixing_device": null,
+        "mixing_media": "aqueous solution"
+      },
+      {
+        "token": "dropped",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "agitation",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "High purity Sm 2 O 3 , Nd 2 O 3 , Y 2 O 3 , Na 3 Cit and Na 2 WO 4 ·2H 2 O were used as the starting materials.\nNitrate solutions Y(NO 3 ) 3 , Sm(NO 3 ) 3 and Nd(NO 3 ) 3 , mixed with designed stoichiometric ratios, were prepared via a re-crystallization process.\nThe details of re-crystallized procedure can be referenced from our previous literature [24].\nThe phosphors with a composition of 4Na 2 WO 4 ·2H 2 O + (2 − x − y)Y(NO 3 ) 3 ·6H 2 O + xSm(NO 3 ) 3 ·6H 2 O + yNd(NO 3 ) 3 ·6H 2 O (in mol%, x = 0, 0.1, 0.5, 1.0, 5.0; y = 1.0) were prepared by a microwave-assisted hydrothermal method.\nEach mixture containing 2 mmol Na 3 Cit and stoichiometric amounts of aforementioned RE nitrate was dissolved completely in aqueous solution under magnetic stirring for 15 min.\nThen 4 mL aqueous solution containing 4 mmol Na 2 WO 4 was slowly dropped into the mixture and immediately formed an opal colloid solution.\nAfter an additional 20 min agitation, the obtained colloid solution sealed in a 30 mL silica glass vessel was placed inside a Microwave Synthesizer (Biotage Initiator, Sweden), and irradiated by microwave for 1 h at 180 ◦ C.\nAfter cooling to room temperature naturally, the white precipitation, which appeared in the bottom of vessel was separated by centrifugation and washed with ethanol for several times.\nFinally, the precipitate was dried in air at 75 ◦ C for 6 h, and the target NaY(WO 4 ) 2 : Nd 3+ /Sm 3+ microstructures were obtained through a calcination process at 700 ◦ C for 1 h.\nIn addition, it should be mentioned that the commercial NaYF 4 phosphors codoped with 2 mol% Er 3+ and 10 mol% Yb 3+ used as a temperature probe to characterize the heating performance of Sm 3+ and Nd 3+ codoped samples was prepared by high temperature solid state method.",
+    "doi": "10.1016/j.snb.2016.08.176"
+  },
+    {
+    "synthesis_type": "solid-state",
+    "doi": "10.1016/j.ssi.2013.03.015",
+    "operations": [
+      {
+        "token": "dissolved",
+        "mixing_device": null,
+        "mixing_media": "water"
+      },
+      {
+        "token": "stirring",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "dispersed",
+        "mixing_device": null,
+        "mixing_media": "methanol"
+      },
+      {
+        "token": "ground",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "The synthesis of LiMn 2 O 4 nanorods is carried out through a twostep procedure. Firstly, the tetragonal β-MnO 2 nanorods were prepared by a hydrothermal process similar to the previous report [15].\nTypically, 10 mmol MnSO 4 and 10 mmol (NH 4 ) 2 S 2 O 8 were dissolved in 140 ml of distilled water to form a homogeneous solution under magnetically stirring at room temperature. The mixed solution was transferred to a 200 ml Teﬂon-lined stainless autoclave and heated at 120 °C for 12 h. The resultant precipitate was washed with deionized water and ethanol in succession to remove the sulfate ions and other remnants. The obtained black powder was subsequently dried at 80 °C for 24 h in air to obtain the β-MnO 2 precursor. Secondly, the above β-MnO 2 and LiOH·H 2 O were mixed at 2:1 molar ratio and dispersed into 5 ml methanol to form a thick slurry, which was further ground for several hours, and then dried at room temperature.\nThe obtained powder was calcined in tube furnace at 700 °C for 10 h in air to obtain spinel LiMn 2 O 4 nanorods (marked as LiMn 2 O 4 -NRS).\nAs a contrast, LiMn 2 O 4 particles were also prepared by a traditional solid state reaction method (marked as LiMn 2 O 4 -SSR) from commercially available β-MnO 2 without any further treatment and LiOH·H 2 O mixed at the same molar ratio of 2:1. For all calcinations in tube furnace, samples were heated from room temperature at a heating rate of 10 °C min − 1 and cooled naturally to room temperature. All reagents used were of analytical grade without further treatment.",
+    "doi": "10.1016/j.ssi.2013.03.015"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1016/j.apsusc.2012.09.041",
+    "operations": [
+      {
+        "token": "adding",
+        "mixing_device": null,
+        "mixing_media": "NH3·H2O"
+      },
+      {
+        "token": "added",
+        "mixing_device": null,
+        "mixing_media": "NaOH"
+      },
+      {
+        "token": "stirring",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "added",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "stirring",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "Bismuth citrate (BiC 6 H 5 O 7 ), niobium pentoxide (Nb 2 O 5 ), ammonia solution (NH 3 ·H 2 O), NaOH, and ethanol were purchased from Sigma–Aldrich Hong Kong, China. All the chemicals were of analytical grade and used as received without further puriﬁcation.\nBismuth niobate (Bi 3 NbO 7 ) nanoplates superstructures were synthesized via a one-step hydrothermal method using BiC 6 H 5 O 7 and Nb 2 O 5 as the precursors. In a typical synthesis, a solution was ﬁrst obtained by adding 2 mmol (1.6 g) BiC 6 H 5 O 7 into 20 mL of NH 3 ·H 2 O solution, and a white milky suspension was gotten when 2 mmol (0.532 g) Nb 2 O 5 was added in 50 mL of 4 N NaOH solution under magnetic stirring. Then the solution containing BiC 6 H 5 O 7 was added into the suspension of Nb 2 O 5 under magnetic stirring for 60 min. The molar ratio of bismuth citrate and niobium oxide was 1:1. At last, the resulting suspension was transferred into a 100 mL Teﬂon-lined stainless autoclave. The autoclave was allowed to be heated at 200 ◦ C for 16 h under autogenously pressure, and then air cooled to room temperature. The resulting precipitates were collected and washed with ethanol and deionized water thoroughly and dried at 50 ◦ C in air. For the control experiment, bulk Bi 3 NbO 7 sample was also prepared by the solid-state reaction at 900 ◦ C for 2 h using Nb 2 O 5 and Bi 2 O 3 as raw materials .",
+    "doi": "10.1016/j.apsusc.2012.09.041"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1039/c5cp03889h",
+    "operations": [
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "blended",
+        "mixing_device": "agate",
+        "mixing_media": null
+      },
+      {
+        "token": "dissolved",
+        "mixing_device": null,
+        "mixing_media": "ethanol"
+      },
+      {
+        "token": "dissolved",
+        "mixing_device": null,
+        "mixing_media": "water"
+      },
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "stirring",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "added",
+        "mixing_device": null,
+        "mixing_media": "NaOH"
+      },
+      {
+        "token": "stirred",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "Sr 1x Bi x Ti 1x Cr x O 3 solid solutions were prepared via two diﬀerent synthetic routes, namely solid state reactions (SSRs) and the hydrothermal method (HT). For solid state reactions, appropriate amounts of SrCO 3 (Aladdin, 99.5%), TiO 2 (Aladdin, 99.99%), Bi 2 O 3 (Aladdin, 99.9%) and Cr 2 O 3 (Aladdin, 99%) were mixed.\nThese powders were subjected to a thermal treatment at 400 1C for 2 hour prior to weighing in order to remove moisture absorbed. In a typical synthesis of Sr 0.8 Bi 0.2 Ti 0.8 Cr 0.2 O 3 , 1.1800 g SrCO 3 , 0.6389 g TiO 2 , 0.4660 g Bi 2 O 3 and 0.1520 g Cr 2 O 3 were thoroughly blended using an agate mortar and pestle. The mixtures were then uniaxially pressed into pellets under a pressure of 5 tons. Pellets obtained were then transferred into alumina crucibles and calcined in a muﬄe furnace at 1200 1C for 30 hours. Intermediate grindings and recalcinations were applied for the removal of impurities present. For the hydrothermal method, appropriate amounts of titanium isopropanol (Aladdin, 95%) were dissolved in anhydrous ethanol (Aladdin).\nOther starting materials such as Sr(CH 3 COO) 2 (Aladdin, 99%), Bi(NO 3 ) 3 5H 2 O (Aladdin, 99%) and Cr(NO 3 ) 3 9H 2 O (Aladdin, 99%) were dissolved in deionized water according to the stoichiometric ratio. The two transparent solutions were then slowly mixed under magnetic stirring for 2 hours, after which 10 ml 10 M NaOH solution was added dropwise. The resultant slurry was stirred for 1 hour before reacting in PTFE lined autoclaves at 180 1C for 48 hours. The resulting powders were washed using deionized water until pH reached 7 and dried in an oven at 80 1C. La/Cr codoped sample Sr 0.8 La 0.2 Ti 0.8 Cr 0.2 O 3 was also synthesized by the HT method under the same conditions for comparisons.",
+    "doi": "10.1039/c5cp03889h"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1007/s10853-008-2561-x",
+    "operations": [
+      {
+        "token": "dissolved",
+        "mixing_device": null,
+        "mixing_media": "ethylene glycol"
+      },
+	  {
+		"token": "stirring",
+		"mixing_device": null,
+		"mixing_media": null
+	  },
+      {
+        "token": "ground",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "kneaded",
+        "mixing_device": null,
+        "mixing_media": "NaOH"
+      }
+    ],
+    "paragraph": "Ca 3 Co 4 O 9 ceramics were synthesized by the PC method and HHP technique as summarized in Fig. 1. Citric acid and stoichiometric amounts of calcium acetate hydrate and cobalt acetate hydrate were dissolved in ethylene glycol by heating and stirring the solution until complete dissolution.\nAt ﬁrst, the solution was heated at 433 K to remove most of the water from the solution. After the completion of the decomposition of acetate ions, the temperature of the solution was gradually increased to 523 K. During this heating process, the formation of the polymer between ethylene glycol and metal-citrate complexes was promoted.\nAs the solution was condensed, it became viscous, and this viscous product was decomposed to a ﬁne powder at 723 K. The obtained powder precursor was ground and calcined at 973 K for 12 h in air to remove a residual organic matter completely. The calcined powder was compressed by the hydrothermal hot-pressing technique similar to that reported in our previous studies [15, 16]. The calcined powder was kneaded with 0.05 M NaOH solution (10 mass% for the powder) to be set in the cylinder of an autoclave for the hydrothermal hot pressing (HHP).\nFigure 2 shows the schematic drawing of the autoclave used in this experiment. The autoclave has a cylinder made of stainless steel with an inside diameter of 20 mm and the sample is compressed by the piston in the cylinder from the top and bottom. The sample was ﬁrst compressed at the ambient temperature and the desired pressure (50– 200 MPa). Then it was heated at a rate of 10 K min -1 to the desired temperature (373–573 K), and kept for a desired time (1–5 h) at each temperature. The rectangular prism with about 18 9 7 9 2 mm was cut off from the obtained compacts. The cut off compacts were sintered at 1193 K for 12 h in air. As a reference, the sample by the conventional solid-state reaction method was also prepared; a mixture of CaCO 3 and Co 3 O 4 powders was pressed into a pellet under a pressure of 560 MPa for 30 s at room temperature, calcined at 1,173 K for 12 h in air, ground, again pressed into a pellet, and then sintered at 1,193 K for 12 h in air.",
+    "doi": "10.1007/s10853-008-2561-x"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1007/s10854-011-0541-4",
+    "operations": [
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "SiO 2 –PbO–Bi 2 O 3 glasses having the composition of 35SiO 2 –xPbO–(65-x)Bi 2 O 3 (where x = 5, 10, 15, 20, 25, 35, 45; in mol%) have been prepared using the conventional melting and annealing method. Density, molar volume and Vickers microhardness of the prepared glasses were measured. Infrared (IR) and UV–visible spectroscopic techniques were used for structural studies of these glasses. Density as well as the microhardness increase systematically and, conversely, the molar volume decreases with increasing the lead oxide content. This behavior can be explained by the correlation with the glass structure. Increasing the lead oxide content (C20 mol%) increases the network former PbO 4 groups which can play an important role in increasing the connectivity and compactness of the glass matrix via increasing the cross-linking with the other constituent silicate and bismuthate structural units. The increased compactness may explain, in turn, the increase of the density and microhardness. IR spectra reinforce the idea that bismuth participates in the glassy network predominantly as BiO 6 octahedral structural units.\nUV–VIS optical absorption spectra revealed UV-charge transfer absorption bands related to the contribution of Pb 2? ions in the region 350–385 nm; in addition to the extrinsic absorption of trace iron impurities in the range 220–290 nm. In the visible region, three optical bands in the ranges 415–435, 605–650 and 880–890 nm were correlated with the contribution of electronic transitions in Bi 3? ions. Calculation of the optical mobility gap and the width of the energy tail of glass from the UV–VIS absorption indicated a slight increase followed by a decrease in their values. The behavior change occurred at the glass in which PbO content is 20 mol% where lead oxide starts to participate into the glassy matrix as a network former. The combination of analytical FTIR and UV– visible spectroscopy provided a consistent picture of structure–property relations in this glass system.\n1 Introduction Heavy metal glasses based on Bi 2 O 3 and PbO have received much interest because of their thermal stability [1] and interesting properties. These glasses exhibit high thirdorder nonlinear optical susceptibility which makes them useful for ultra-fast optical switches, optic and optoelectronic devices [2, 3]. They are promising materials for technological applications such as upconverting phosphors, new laser materials, and optical waveguides due to their low phonon energy [3, 4]. They have special applications in the area of thermal and mechanical sensors, reﬂecting windows, low-loss ﬁber optic and infrared (IR)-transmitting materials (because of their long infrared cut-off wavelengths in excess of 9 lm) [5, 6]. They are also used to produce, after appropriate annealing, high temperature superconductors with controllable microstructure [7, 8].\nBismuthate glasses are attractive to researchers because of their unique structural characteristics, which result from coordination changes in bismuth. Despite the fact that Bi 2 O 3 is not a conventional glass former, due to its high polarizability and small ﬁeld strength of Bi 3? ions, in the presence of conventional glass formers (such as SiO 2 , B 2 O 3 ,P 2 O 5 , GeO 2 , etc.), it may build a glass network of [BiO n ](n = 3, 6) pyramids [1, 9–12]. However, the structural role played by Bi 2 O 3 in glasses is still complicated and poorly understood. This is because the [BiO n ] S. M. Abo-Naf (&)  R. L. Elwan  M. A. Marzouk Glass Research Department, National Research Centre (NRC), El-Behoos Str., Dokki, 12622 Cairo, Egypt e-mail: sheriefabonaf@yahoo.com 123 J Mater Sci: Mater Electron (2012) 23:1022–1030 DOI 10.1007/s10854-011-0541-4   \npolyhedra are highly distorted due to the lone pair electrons [9–11]. It is well known that glasses containing PbO exhibit high refractive indices and low crystallization tendency [13]. They are also low melting glasses with low glass transition temperatures. It has been found that lead and bismuth oxides do not form glasses by themselves and glasses in the system Bi 2 O 3 –PbO can be obtained only with the roller technique at cooling rates in the range 10 3 –10 4 K/s [2]. We have observed that the appropriate addition of SiO 2 in the system Bi 2 O 3 –PbO improves dramatically the glass forming ability in this ternary system. To our knowledge, these glasses have not been extensively studied and reported.\nThe objective of the present work is the characterization of SiO 2 –PbO–Bi 2 O 3 glasses using density and Vickers microhardness measurements, FTIR and UV–visible spectroscopy.\n2 Experimental 2.1 Glass preparation SiO 2 –PbO–Bi 2 O 3 glasses having the composition of 35SiO 2 –xPbO–(65 - x)Bi 2 O 3 (where x = 5, 10, 15, 20, 25, 35, 45; in mol%) were prepared using the conventional melting and annealing method. The starting materials used in the present study were powders of analytical reagent grade of SiO 2 ,Pb 3 O 4 and Bi 2 O 3 , respectively. Well mixed powders containing appropriate amounts of the raw materials were melted in a platinum crucible in an electric furnace at 900–950° C for 30 min. in air. The glass formed by quenching the melt on a preheated stainless-steel mold was immediately transferred to another mufﬂe furnace where it was annealed at about 300 °C for 1 h. Then, the mufﬂe was switched off and the temperature decreased to room temperature with a rate 25 °C/h.",
+    "doi": "10.1007/s10854-011-0541-4"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1007/s10854-014-2568-9",
+    "operations": [
+      {
+        "token": "milled",
+        "mixing_device": "ball mill",
+        "mixing_media": "ethanol"
+      },
+      {
+        "token": "re-milled",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "Ca 1-x Sr x TiO 3 (x = 0.1, 0.25, 0.5, 0.75 and 0.9) bulk ceramics samples were prepared through a mixed oxide solid state sintering route. All the samples were characterized using synchrotron X-ray diffraction, Raman spectroscopy, scanning electron microscopy and vector network analyzer. Structural analysis revealed structural phase transition from orthorhombic (Pbnm)to tetragonal (I4/mcm)atx [ 0.5, consistent with the present Raman spectroscopy results. There was no evidence of orthorhombic Bmmb symmetry in the range x = 0.1–0.9.\nRelative permittivity varied from 148 to 241, quality factor from 7,427 to 1,487 GHz and temperature coefﬁcient of resonance frequency from ?320 to ?479 ppm/°C with an increase in x from 0.1 to 0.9.\n1 Introduction The idea of using a solid state dielectric material as a resonator in wireless telecommunication devices, satellite broadcasting equipment and mobiles handsets, was ﬁrst ﬂoated by Richtmyer in 1939 [1]. The suitability of a material to be used in microwave dielectric resonators depends on three important characteristics. A high dielectric constant (e r ) is required for miniaturization of the component, a high quality factor (Q 9 f) is needed for ﬁne tunability and near zero temperature coefﬁcient of resonant frequency (s f ) for temperature stability [2]. In general, materials don’t exhibit all these properties simultaneously; however, a number of materials have the ability to host different cations to form new compounds to enhance the desired properties and suppress the unwanted ones [1].\nPerovskite structured materials like CaTiO 3 ,BaTiO 3 and SrTiO 3 have been studied for their potential applications as dielectric resonators. Among these, CaTiO 3 is a natural perovskite mineral discoveredbyGustavRosein1839[3]and was named perovskite after the name of well-known mineralogist Perovskii [4, 5]. CaTiO 3 has an orthorhombic (Pbnm) structure at room temperature [6] and has been reported to exhibit reasonable e r (*160) and Q 9 f (*7,000 GHz); however, its s f (*850 ppm/°C) is too high for microwave dielectric applications [7]. In order to tailor its microwave dielectric properties via structural variations, it can be doped with a number of cations. Doping trivalent cations (like La 3? , Nd 3? ,Sm 3? ,Y 3? ,Pr 3? ) on the A-site of the CaTiO 3 unit cell creates a number of vacancies to neutralize charge [3]. The creation of these vacancies leads to doubling of the unit cell which results in structural distortion [8]. Similarly, SrTiO 3 (a man-made perovskite material) has attracted increased research interest due to its applications in luminescence and data storage devices, and as an anode material in fuel cells [9]. SrTiO 3 has a cubic (Pm  3m) structure with lattice constant a = 3.905 A ˚ at room temperature [10, 11]ande r = 300, Q 9 f = 3,300 and a high s f = 1,650 [7]. The effect of Sr-doping in CaTiO 3 has been reported previously. For example, Qin et al. [12]used Raman spectroscopy and reported structural phase transition in Ca 1-x Sr x TiO 3 from orthorhombic (Pbnm) to tetragonal (I4/mcm)atx = 0.65 and then to cubic (Pm  3m)atx = 0.95.\nSimilarly, an XRD study of Ca 1-x Sr x TiO 3 reported an orthorhombic (Pbnm) symmetry at 0.4 C x C 0, orthorhombic (Pbnm/Bmmb) symmetry at x = 0.5, tetragonal (I4/mcm)at M. Saleem  Y. Iqbal (&)  R. Muhammad Materials Research Laboratory, Department of Physics, University of Peshawar, Peshawar 25120, Pakistan e-mail: dryaseeniqbal@yahoo.co.uk M. Saleem  S. Qin  X. Wu  F. Zhu School of Earth and Space Sciences, Peking University, Beijing, China 123 J Mater Sci: Mater Electron (2015) 26:1507–1511 DOI 10.1007/s10854-014-2568-9   \nx = 0.8 and cubic (Pm  3m)symmetryatx = 1[13]. The solid solution was reported to exhibit e r * 162–190, s f * ?859–1,650 ppm/°CandQ 9 f * 8,700–2,460.\nIn the present study, results regarding the crystal structure, microstructure and microwave dielectric properties of Ca (1-x) Sr x TiO 3 (x = 0.1, 0.25, 0.5, 0.75 and 0.9) ceramics are reported.\n2 Experimental Ca 1-x Sr x TiO 3 (x = 0.1, 0.25, 0.5, 0.75 and 0.9) was prepared using CaCO 3 (Alfa Aesar 99.5 %), SrCO 3 (Alfa Aesar 99.99 %) and TiO 2 (Alfa Aesar 99.9 %). Carefully weighed stoichiometric mixtures of initial ingredients were milled in disposable polyvinyl jars with Yt-stabilized ZrO 2 balls as milling media in ethanol for 24 h using bench-top planetary ball mill (QM-3SP2). The slurry was dried overnight, sieved and then calcined at 1,150 °C/4 h using alumina crucibles in air atmosphere in a KSLX 1800 chamber furnace at heating/ cooling rate of 5 °C/min. Calcined powders were re-milled for 24 h to further reduce the particle size and sieved after drying to dissociate agglomerates. Powder samples were pressed into 3–5 mm high and 10 mm diameter pellets at 100 MPa in a uniaxial manual pellet press. The pellets were sintered at 1,350 °C in the same furnace in air atmosphere.\nDensities of the sintered pellets were measured by Archimedean method using a MD-300s high precession densitometer. Detailed structural analyses were performed with synchrotron diffraction data collected at Shanghai Synchrotron Radiation Facility (SSRF), China, at BL15U1 beam line with k = 0.69 A ˚ and a beam spot of area 7.5 9 2.0 lm 2 . A ﬁxed exit and liquid nitrogen cooled double crystal monochromator with two sets of Si crystals [Si (111) and Si (220)] was employed for data collection in nondepressive conﬁguration followed by a toroidal focusing mirror with a horizontal acceptance angle of 2.8 mrad.\nPowder samples were uniformly distributed on an adhesive tape and mounted on a sample holder accordingly. Diffraction patterns of the powder samples were recorded with Multi-Analyses on Radioactive Samples (MARS 345) imaging plate with the sample to detector distance of 207.729 mm. Diffraction patterns obtained in the form of ‘Debye’ rings were converted into one-dimensional X-ray proﬁle versus 2h using FIT2D software [14]. X-ray diffraction data was analyzed using standard computer program ‘RIETICA’. Raman spectroscopy of the samples was performed using a RENISHAW Raman spectrometer in the range of 100–800 cm -1 with Argon ion laser of wavelength 514.5 nm and operating power of 50 mW. A grating of 1,800 lines/mm was used for this purpose. Samples for scanning electron microscopy (SEM) were polished, and thermally etched at temperatures 10 % less than the corresponding sintering temperatures for 30 min at a heating/cooling rate of 10 °C/min. Microstructural analysis of samples was performed using a FEI, QUANTA, FEG 650 SEM. Energy dispersive spectroscopy was performed using an INCA, SYNERGY (Oxford) EDS detector. Microwave dielectric properties of the samples were determined using S-parameter network analyzer (Hewlett Packard 8720ES, 50 MHz– 20 GHz) with Hakki and Coleman method [15, 16]. Measurement of Q 9 f was performed at TE 01d resonant mode in reﬂectance whereas e r was measured by TE 011 resonant mode. s f was determined by varying the temperature of the resonator between 20 and 80 °C using Eq. (1) s f ¼ ðf 2  f 1 Þ f 1 ðT 2  T 1 Þ ð1Þ where f 1 and f 2 are the resonant frequencies at temperature T 1 and T 2 respectively.",
+    "doi": "10.1007/s10854-014-2568-9"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1016/j.ijhydene.2013.02.119",
+    "operations": [
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "milled",
+        "mixing_device": "zirconia",
+        "mixing_media": "isopropyl alcohol"
+      },
+      {
+        "token": "milled",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "milled",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "dissolved",
+        "mixing_device": null,
+        "mixing_media": "water"
+      },
+      {
+        "token": "added",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "stirring",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "BaFe 0.9 Zr 0.1 O 3d (BFZ) powder was made by conventional solid-state synthesis with proper amounts of BaCO 3 (Alfa Aesar, 99.997%), Fe 2 O 3 (Alfa Aesar, 99.99%), and ZrO 2 (Aldrich, 99.99%). The mixed powder was ball-milled overnight with zirconia media in isopropyl alcohol (IPA). After drying on a hot plate, the mixture was heated at 850  C for 10 h in ambient air and ball-milled again overnight. The dried powder was heated at 900  C for 10 h and ball-milled for 24 h, then the powder was pressed uniaxially into disks (z1-in. dia). Dense ceramic disks were prepared by sintering in air, in N 2 , and in 100 ppm H 2 /N 2 at 1330e1350  C for 6e10 h. To observe the effect of Zr 4þ doping on the oxygen permeation ﬂux, another composition, BaFe 0.975 Zr 0.025 O 3d (BFZ0), was made by sintering at 1250  C for 6 h in 100 ppm H 2 /N 2 . The crystal structure, microstructure, and purity were determined for the BFZ samples sintered in different environments. For the coal-gas-assisted watersplitting experiment, a BFZ tube with one end closed was prepared in the N 2 atmosphere (O.D. of 0.96 cm, I.D. of 0.75 cm, and length of 5.74 cm). The thickness of the tube was determined to be 1.05 mm, and the tube’s outside and inside surface area was 17.3 cm 2 and 13.5 cm 2 , respectively. To activate the surface of a 0.67-mm-thick BFZ disk during EtOH reforming, Rh catalyst was deposited on one of its faces. Rhodium nitrate, Rh(NO 3 ) 3 ,2H 2 O (Alfa Aesar, 99.9%), was dissolved in deionized water, and then XUS binder (poly-vinyl butyral) and BFZ powder were added to the solution. Heating the solution with binder and powder at <80  C while stirring gave a viscous paste, which was painted onto the surface of the BFZ disk. The painted disk was dried in air and installed for an ethanol reforming test at 600  C.",
+    "doi": "10.1016/j.ijhydene.2013.02.119"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1016/j.jssc.2005.12.030",
+    "operations": [],
+    "paragraph": " All manipulations were performed inside an argon-ﬁlled glove box with moisture level below 1 ppm. Magnesium turnings (99.9%, Acros ), lithium ingot (99.9%, Aldrich), lanthanum chip (99.9%, Aldrich) and bismuth block (99.9%, Alfa) were used as received. Single crystals of La 3 MgBi 5 were initially obtained by the solid-state reaction of magnesium (0.012 g, 0.5 mmol), lanthanum (0.138 g, 1.0 mmol) and bismuth (0.313 g, 1.5 mmol). The mixture was loaded into a niobium tube, arc-welded an d then sealed in an evacuated quartz tube (10 4 Torr). The tube was put into an oven and heated at 980 1C for 2 days, and annealed at 800 1C for 7 days. Afterwards, the reaction tube was allowed to cool at a rate of 0.1 1C/min to the room temperature. Brick-shaped gray crystals of La 3 MgBi 5 were obtained. Single crystals of LaLiBi 2 (brick in shape and gray in color) were obtained in a similar way by using lithium (0.069 g, 1.0 mmol) instead of magnesium. Several single crystals of La 3 MgBi 5 and LaLiBi 2 were analyzed by using energy-dispersive X-ray spectroscopy (EDAX 9100), and the results indicate that atomic ratios to be 2.8: 1.0: 5.1 for La, Mg, and Bi in La 3 MgBi 5 and 1: 2.2 for La and Bi in LaLiBi 2 , respectively, which are in good agreement with those of the structural reﬁnements. After the determination of single crystal structures, great efforts were subsequently made to synthesize pure phases of La 3 MgBi 5 and LaLiBi 2 .\nThe reactions were carried out in a stoichiometric ratio of the metals, as well as using of an excess of 20% lithium to compensate possibl e loss during arc welding. The sample s were heated at 980 1C for 1 day, quenched in water, and annealing at different temperatures (600, 700, 800, and 850 1C, respectively, for each individual reaction) for 1 month. However, X-ray powder patterns of the resultant products revealed the presence of impurity phases, such as LaBi (Fm3-m), Mg 3 Bi 2 (P3-m1), as well as other unidentiﬁed compounds. Attempts were also made to obtain the LaMgBi 2 phase, but only La 3 MgBi 5 was formed. The highest yields of 60% and 70%, for La 3 MgBi 5 and LaLiBi 2 , were obtained by an nealing at 800 and 700 1C, respectively. Physical properties were not measured due to the difﬁculty to obtain mono-phase products.",
+    "doi": "10.1016/j.jssc.2005.12.030"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1007/s11051-011-0545-2",
+    "operations": [
+      {
+        "token": "dissolved",
+        "mixing_device": null,
+        "mixing_media": "water"
+      },
+	  {
+		"token": "dissolved",
+		"mixing_device": null,
+		"mixing_media": "nitric acid"
+	  },
+      {
+        "token": "stirring",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "All chemicals were of analytical and were directly used without any treatment. In a typical procedure, stochiometric amounts of Bi(NO 3 ) 3 5H 2 O and Ti(OC 3 H 7 ) 4 , a certain Bi/Ti ratio, was dissolved in 10 mL of deionized water with dilute nitric acid under vigorous stirring at room temperature. The pH value of the ﬁnal solution was adjusted using potassium hydroxide. Before being transferred to a Teﬂon-lined stainless autoclave (23 mL capacity), the solution mixture was prepared under an ultrasonic water bath for 30 min and kept at a ﬁlling ratio of 80% (v/v). The hydrothermal synthesis was conducted at 180 °C for 24 h in an electric oven. The system was then cooled to ambient temperature naturally. BiT nanorods were collected and washed with distilled water and absolute alcohol several times, vacuum-dried, and kept for further characterization. Bulk bismuth titanate powder used Bi 2 O 3 (Aldrich, 99.99) and TiO 2 (Aldrich, 99.99) as starting materials in the right stoichiometric ratio and then calcined at 600 °C for 2 h was also prepared by a traditional solid-state reaction in comparison with the BiT nanorods.",
+    "doi": "10.1007/s11051-011-0545-2"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1016/j.solidstatesciences.2011.03.012",
+    "operations": [
+      {
+        "token": "grindings",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "Na 3 MnV 2 O 7.5 was ﬁrst obtained as a side product during the synthesis of NaMnVO 4 . At that time, there was a doubt concerning the chemical formula (Na 3 Mn 2þ V 2 O 7.5 or Na 3 Mn 3þ V 2 O 8 ). Therefore, we have started ﬁrst the synthesis of Na 3 Mn 3þ V 2 O 8 from a stoechiometric mixture of Mn 2 O 3 ,Na 2 CO 3 and V 2 O 5 . Since all these attempts have failed, a pure sample of Na 3 MnV 2 O 7.5 was prepared by direct solid state reaction in gloves box from stoechiometric mixture of Na 3 V 2 O 6.5 and MnO powders (Na 3 V 2 O 6.5 was obtained by heating a 3:2 mixture of Na 2 CO 3 and V 2 O 5 at 700  Cfor 6 h). The mixture was put in a gold tube, which was sealed under vacuum in a silica tube and then ﬁred at 450  C for 6 h and at 600  C for 12 h. After ﬁring at 700  C for 24 h with intermediate grindings Na 3 MnV 2 O 7.5 is obtained. Single crystals were then prepared by heat ing the Na 3 MnV 2 O 7.5 powder at 950  Cfor2hand cooling it slowly (at 2  Ch 1 )to700  C and (at 5  Ch 1 ) to ambient temperature. The obtained crystals corresponding to Na 3 MnV 2 O 7.5 and NaMnVO 4 have a yellow colour and are not disti nguishable.\nThe Na 3 MnV 2 O 7.5 compound is sensitive to air and its crystals were of very poor quality (very weak diffraction spots even with a very long exposure time).",
+    "doi": "10.1016/j.solidstatesciences.2011.03.012"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1007/s10854-013-1416-7",
+    "operations": [
+      {
+        "token": "mixed",
+        "mixing_device": "agate",
+        "mixing_media": "acetone"
+      }
+    ],
+    "paragraph": "Pr 2 ZnZrO 6 polycrystalline sample was synthesized by conventional solid state reaction method using high purity Pr 2 O 3 , ZnO and ZrO 2 and stoichiometrically mixed in a agate mortar in the presence of acetone (Merck) for 12 h.\nThe mixture was calcined in a Pt crucible at 1,100 °C in air for 10 h and brought to room temperature at a cooling rate of 100 °C/h. The calcined sample was palletized into a circular disc using PVA as binder which was burnt out during sintering at 1,150 °C for 6 h, and cooled slowly to room temperature at a cooling rate 1 °C/min. The sample was characterized by X-ray diffraction pattern. The X-ray diffractogram of the sample was recorded at room temperature with powder X-ray diffractometer (Rigaku Miniﬂex-II) with CuKa radiation. The scanning electron microscope (SEM) (FEI Quanta 200) equipped with energy dispersive analysis of X-ray (EDAX) is used to determine the grain size distribution, the atomic composition and homogeneity of the sample. The sintered pellets were polished to make both their faces parallel and electroded by high purity ultraﬁne silver paste for all their electrical characterization. To dry the paste the pellets were heated at 500 °C for 2 h prior to conducting experiment. Capacitance, impedance, phase and conductance of the sample were measured as a function of frequency and temperature using a computer controlled LCRmeter (HIOKI-3552, Japan) at a heating rate of 0.5 °C/min.\nThe Eurotherm 2216e temperature controller was used to control the temperature of the sample.",
+    "doi": "10.1007/s10854-013-1416-7"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1016/j.apcata.2011.10.044",
+    "operations": [
+      {
+        "token": "milled",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "dispersed",
+        "mixing_device": null,
+        "mixing_media": "KOH"
+      },
+      {
+        "token": "adjusted",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "added",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "stirring",
+        "mixing_device": null,
+        "mixing_media": "nitric acid"
+      }
+    ],
+    "paragraph": "The KNb 3 O 8 samples were prepared by the solid state reaction (SSR) and the hydrothermal (HT) synthesis, respectively.\nIn the solid state reaction case, stoichiometric amounts of Nb 2 O 5 and K 2 CO 3 were well milled and then heated at 900 ◦ C for 10 h; the obtained product was denoted as KNb 3 O 8 (SSR).\nIn the case of the hydrothermal synthesis, Nb 2 O 5 (0.5 g) powder was ﬁrst dispersed 0926-860X/$ – see front matter ©  2011 Elsevier B.V. All rights reserved.\ndoi:10.1016/j.apcata.2011.10.044   \n104 X.\nLi et al.\n/ Applied Catalysis A: General 413– 414 (2012) 103– 108 in KOH aqueous solution (40 ml, 2 mol L −1 ) for half an hour, the slurry was loaded into a Teﬂon-lined stainless autoclave and was then treated at 180 ◦ C for 2 days to give a clear solution.\nThe pH value of the solution was adjusted to 5.5 and 2.0 g of P123 (Aldrich, average molecular weight: 5800) was added; the reaction mixture was further treated at 180 ◦ C for 4 days.\nThe white precipitate was recovered by ﬁltration, washed thoroughly with ethanol and water, dried at 70 ◦ C for 12 h, and then heated at 500 ◦ C for 1 h.\nThe product so obtained was denoted as KNb 3 O 8 (HT).\nThe HNb 3 O 8 solid acid samples were obtained by stirring the corresponding potassium salts in aqueous nitric acid solution (5 mol L −1 , 60 ml per gram of KNb 3 O 8 ) at room temperature for 2 days.\nThe HNb 3 O 8 samples were denoted as HNb 3 O 8 (SSR) and HNb 3 O 8 (HT), respectively.",
+    "doi": "10.1016/j.apcata.2011.10.044"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1007/s10854-015-3507-0",
+    "operations": [
+      {
+        "token": "ground",
+        "mixing_device": null,
+        "mixing_media": "ethanol"
+      },
+      {
+        "token": "dry-milled",
+        "mixing_device": "zirconia balls",
+        "mixing_media": null
+      },
+      {
+        "token": "poured",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "pulverized",
+        "mixing_device": "vibration mill",
+        "mixing_media": null
+      },
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "re-milled",
+        "mixing_device": "ball-milling",
+        "mixing_media": "ethanol"
+      },
+      {
+        "token": "added",
+        "mixing_device": null,
+        "mixing_media": "acrylic acid"
+      }
+    ],
+    "paragraph": "The starting raw materials were Li 2 CO 3 ,Nb 2 O 5 , TiO 2 , B 2 O 3 and SiO 2 with purity higher than 99 %. The powders were weighed according to the stoichiometric ratio of 11Li 2 O-3Nb 2 O 5 -12TiO 2 and ground in ethanol for 7 h through ball-milling using zirconia balls. The mixtures were dried and calcined at 850 °C for 8 h. The LBS glass has a composition of 50 % Li 2 CO 3 , 40.24 % B 2 O 3 and 9.76 % SiO 2 in mol.%. The batches were dry-milled with zirconia balls for 2 h and then melted in a platinum crucible at 1400 °C for about 2 h. The glass melt was quickly poured and quenched on a copper plate and pulverized in a vibration mill for 4 h. The calcined LNT and LBS glass powers were mixed according to the LNT ? x wt.% LBS, where x = 0.2, 0.3, 0.5, 1.0 and 2.0, and re-milled in ethanol for 2 h through ball-milling using zirconia balls.\nThe mixtures were dried and added with acrylic acid to form pellets (14.5 mm in diameter and 7 mm in height).\nThe samples were sintered at the temperatures of 850, 875, 900 and 925 °C at a heating rate of 5 °C/min in air.",
+    "doi": "10.1007/s10854-015-3507-0"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1007/s10854-014-2612-9",
+    "operations": [
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "ground",
+        "mixing_device": "agate",
+        "mixing_media": "ethanol"
+      },
+      {
+        "token": "reground",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "Samples of the LiMgVO 4 ceramic was synthesized by the conventional solid-state methods using high-purity oxide powders ([99 %): Li 2 CO 3 , MgO and V 2 O 5 . The pre-dried raw materials were mixed according to the desired stoichiometry of the LiMgVO 4 ceramics. The powders were ground for 8 h in a nylon jar with agate balls and ethanol as media. All mixtures were dried and calcined at 700 °C for 3 h. The calcined powders were reground for 8 h, dried, mixed with 5 wt% PVA as a binder, and granulated. The granulated powders were uniaxially pressed into pellets with 10 mm in diameter and 4–5 mm in height under the pressure of 200 MPa. These pellets were sintered from 650 to 725 °C for 4 h in air with a heating rate of 5 °C/min.",
+    "doi": "10.1007/s10854-014-2612-9"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1007/s10854-015-3951-x",
+    "operations": [
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+	  {
+		"token": "ball-milled",
+		"mixing_device": "agate ball",
+		"mixing_media": "ethanol"
+	  },
+	  {
+		"token": "hand-milled",
+		"mixing_device": "mortar",
+		"mixing_media": null
+	  }
+    ],
+    "paragraph": "The series of 0.6Y 2 O 3 –0.4Y 1-x Ca x Cr 0.5 Mn 0.5 O 3 (0 B x B 0.15) samples used in this investigation were synthesized through the conventional solid-state reaction. Stoichiometric amounts of powders of Y 2 O 3 (Sinopharm, China, analytical grade), MnO 2 (Hunan Huitong Science & Technology Co., Ltd, China, purity[99.4 %), Cr 2 O 3 (Sinopharm, China, purity[99.0 %), CaCO 3 (Sinopharm, China, analytical grade) were taken as the starting reagents. All powders were mixed after weighing in appropriate proportions and then ball-milled in ethanol, using agate ball as milling media, for 8 h. After drying, the powder mixture was then calcined at 1200 °C for 2 h. The calcined powders were hand-milled in mortar for 6 h. Subsequently, the powders were pressed into a disk with 10 mm in diameter and 2 mm in thickness with a uniaxial press at 20 MPa. Cold isostatic pressing at 350 MPa was used to enhance the green densities. The pressed green disks were sintered in a furnace (LHT08/18, Nabertherm, Germany) at 1600 °C for 5 h in ambient air atmosphere. The two opposite sides of the sintered pellets were polished and coated with silver-palladium paste, and then heated at 835 °C for 20 min for metallization. To obtain resistivity at 25 °C, resistances of the sintered pellets were measured in an oil bath at 25 °C with a digital multimeter (Hewlett Packard, 34401A).",
+    "doi": "10.1007/s10854-015-3951-x"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1039/c2jm33056c",
+    "operations": [
+      {
+        "token": "addition",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "stirred",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "added",
+        "mixing_device": null,
+        "mixing_media": "HCl"
+      },
+      {
+        "token": "added",
+        "mixing_device": null,
+        "mixing_media": "distilled water"
+      },
+      {
+        "token": "stirred",
+        "mixing_device": "magnetic stirrer",
+        "mixing_media": null
+      },
+      {
+        "token": "separated",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "mixed",
+        "mixing_device": "agate",
+        "mixing_media": "ethanol"
+      },
+      {
+        "token": "dissolved",
+        "mixing_device": null,
+        "mixing_media": "HF"
+      }
+    ],
+    "paragraph": "The synthesis of Zn 2 SiO 4 :Mn 2+ powder was performed with the HP method using the procedure described below. Aqueous solutions of Zn(NO 3 ) 2 (Kanto Chemical, 99.0%), Mn(NO 3 ) 2 (Wako Chemical, 98.0%), and PGMS were prepared, and urea (Kanto Chemical, 99.0%) or hexamethylene tetramine (HMT, Kanto Chemical, 99.0%) was used as a precipitant. The starting aqueous solutions were dispensed into a 300 mL beaker to achieve a stoichiometric ratio of Zn 1.96 Mn 0.04 SiO 4 , followed by addition of urea or HMT, and the mixture was stirred. As needed, before adding the precipitant, HCl was added to the mixed solution to set the initial pH to 2.5. Distilled water was added to the mixed solution to adjust the total concentration of metal and silicon to 0.1 M (75 mL). The beaker was covered and heated in a water bath to bring the solution temperature to 363 K, and was held for 4 to 24 h and stirred at 400 rpm by a magnetic stirrer equipped with a heating plate to obtain a precipitate. The precipitate was separated by ﬁltration, washed with distilled water, and dried to obtain a precursor. This precursor was annealed at various temperatures for 2 h to obtain a ﬁnal sample. A similar approach was performed using bulk SiO 2 (particle size: 63–270 mm, Kanto Chemical, 99.9%), fumed silica (particle size: 7 nm, Aldrich), or TEOS as the silicon source, and these were compared to samples prepared from PGMS. The samples obtained using PGMS, SiO 2 , fumed silica, and TEOS as silicon sources are hereafter referred to as HP-PGMS, HP-SiO 2 , HP-fs, and HP-TEOS, respectively. The synthesis of the sample by a solid-state reaction (SSR) using ZnO (Kanto Chemical, 99.0%), Mn 3 O 4 (Kojundo Chemical, 99.9%), and SiO 2 powder as starting materials was also performed. Raw materials were weighed in a stoichiometric ratio, then they were thoroughly mixed using ethanol in an agate mortar. The mixture was calcined at 973–1573 K for 2 hours in air. All samples in the present research were heat-treated without addition of any ﬂuxes. The resulting samples were characterized by a powder X-ray diffractometer (XRD; Bruker, D2 PHASER), a scanning electron microscope (SEM; Hitachi, S-4800) equipped with an energy dispersive X-ray spectra analyzer (EDS), and an inductively coupled plasma atomic emission spectroscope (ICP-AES; Perkin Elmer, Optima 3300XL). For ICP-AES analysis, samples were dissolved into 10% HF solution, then it was diluted to obtain the proper concentration. Photoluminescence (PL) spectra of samples were obtained using a ﬂuorescence spectrometer (Hitachi, F4500). In the PL measurement, the pure sample without dilution was densely stuffed in a hole of a sample holder equipped with a quartz window. The sample holder ﬁlled with the sample was ﬁxed at the same position in a measurement room of the ﬂuorescence spectrometer using a jig for each measurement. Thus, the PL spectra were obtained under the same conditions. The PL spectra of commercial Zn 2 SiO 4 :Mn 2+ phosphors (Nemoto Lumi-Material, G-29 and GYL-D1) were also taken for comparison. Quantum efﬁciencies of the samples were evaluated using a ﬂuorescence spectrometer (Jasco, FP-6500) equipped with an integrating sphere.",
+    "doi": "10.1039/c2jm33056c"
+  },
+  {
+    "synthesis_type": "solid-state",
+    "doi": "10.1007/s10854-016-4582-6",
+    "operations": [
+      {
+        "token": "mixed",
+        "mixing_device": null,
+        "mixing_media": null
+      },
+      {
+        "token": "ground",
+        "mixing_device": null,
+        "mixing_media": "argon"
+      },
+      {
+        "token": "ground",
+        "mixing_device": null,
+        "mixing_media": null
+      }
+    ],
+    "paragraph": "Pure Co (99.8 %), Fe (99.5 %) and Sb (99.999 %) powders were mixed according to the atomic ratio of 4 - x: x:12 (x = 0.4, 0.6, 0.8, 1.0, respectively). The mixture was ﬁlled in a mould and shaped into a cylinder with a cold press method.\nThe as-prepared bulk was transferred into an h-BN crucible and loaded into a high pressure apparatus for HPS. The ﬁrst step of HPS was carried out at 4 GPa and 1073 K for 0.5 h. The intermediate product was ground into powders under argon protection, shaped and subject to the second step of HPS (3 GPa and 873 K for 3 h). The obtained product was ground into powders and sintered into dense pellets by using spark plasma sintering (SPS) at 60 MPa and 953 K for 0.5 h. Rectangular blocks (2 9 298mm 3 ), disks (/6mm9 1 mm), and slices (2.5 9 690.4 mm 3 ) were cut from the ﬁnal pellets for the electrical transport, thermal conductivity, and Hall coefﬁcient measurements, respectively.",
+    "doi": "10.1007/s10854-016-4582-6"
+  }
+]
