@@ -38,8 +38,8 @@
 
 - `inorganic_solid_state_extraction_experiment`: This folder contains the files of mixing operation synthesis condition extraction experiments on inorganic solid-state dataset.  
 
-  - **BiLSTM_extracted_conditions_inorganic_solid_state.json** Selected 217 papers' extraction data from Kononova et al.'s work ([link](https://www.nature.com/articles/s41597-019-0224-1)) and their latest updated dataset ([link](https://github.com/CederGroupHub/text-mined-synthesis_public))
+  - **BiLSTM_extracted_conditions_inorganic_solid_state.json:** Selected 217 papers' extraction data from Kononova et al.'s work ([link](https://www.nature.com/articles/s41597-019-0224-1)) and their latest updated dataset ([link](https://github.com/CederGroupHub/text-mined-synthesis_public))
   
-  - **annotated_conditions_inorganic_solid_state.json** Our 20 annotated paragraphs from 217 inorganic solid state papers. Mixing operations including mixing media and mixing device are annotated.
+  - **annotated_conditions_inorganic_solid_state.json:** Our 20 annotated paragraphs from 217 inorganic solid state papers. Mixing operations including mixing media and mixing device are annotated.
   
-  - **FSICL_extracted_conditions_inorganic_solid_state.json**  Results extracted from the synthesis paragraphs of 217 papers in the inorganic solid-state database using FS-ICL with BM25 4-shot GPT-4.
+  - **FSICL_extracted_conditions_inorganic_solid_state.json:**  Results extracted from the synthesis paragraphs of 217 papers in the inorganic solid-state database using FS-ICL with BM25 4-shot GPT-4.
