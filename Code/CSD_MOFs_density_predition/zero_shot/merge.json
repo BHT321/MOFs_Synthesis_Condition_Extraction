@@ -1,0 +1,1521 @@
+{
+  "MOF_MetalSource": [
+    [
+      "Ag",
+      "Silver"
+    ],
+    [
+      "Ag2O",
+      "Silver(I) oxide",
+      "Ag 2 O"
+    ],
+    [
+      "AgAsF6",
+      "silver hexafluoroarsenate"
+    ],
+    [
+      "AgNO3",
+      "AgNO 3",
+      "silver nitrate",
+      "Ag(NO 3 )",
+      "Silver nitrate",
+      "Ag(I)nitrate"
+    ],
+    [
+      "Ammonium heptamolybdate tetrahydrate",
+      "(NH4)6Mo7O24 2H2O",
+      "(NH 4 ) 6 Mo 7 O 24 2H 2 O"
+    ],
+    [
+      "Ba(NO3)2",
+      "Barium nitrate",
+      "Ba(NO 3 ) 2"
+    ],
+    [
+      "Barium chloride dihydrate",
+      "BaCl2 2H2O",
+      "BaCl 2 2H 2 O",
+      "BaCl 2·2H 2 O",
+      "barium chloride",
+      "BaCl2·2H2O"
+    ],
+    [
+      "Bi(NO 3 ) 3 5H 2 O",
+      "Bi(NO3)3 5H2O",
+      "Bismuth(III) nitrate pentahydrate"
+    ],
+    [
+      "BunLi",
+      "Butyllithium"
+    ],
+    [
+      "Ca(NO3)2",
+      "Ca(NO3)2 .4H2O",
+      "Ca(NO3)2·4H2O",
+      "Ca(NO 3 ) 2 .4H 2 O"
+    ],
+    [
+      "CaCO3",
+      "calcium carbonate"
+    ],
+    [
+      "Cadmium",
+      "cadmium",
+      "Cd"
+    ],
+    [
+      "Calcium chloride",
+      "CaCl 2",
+      "CaCl2"
+    ],
+    [
+      "Cd(Ac)2",
+      "cadmium(II) acetate dihydrate",
+      "Cd(CH3COO)2 2H2O",
+      "Cadmium acetate dihydrate",
+      "cadmium acetate dihydrate",
+      "Cd(Ac) 2 2H 2 O",
+      "Cd(Ac)2·2H2O",
+      "Cd(CH3COO)2·H2O",
+      "Cd(CH 3 COO) 2",
+      "cadmium acetate",
+      "Cd(Ac) 2",
+      "Cd(CH 3 COO) 2 ·H 2 O",
+      "Cd(Ac)2·2H2O",
+      "Cd(OAc)2·2H2O",
+      "Cd(OAc)2",
+      "cadmium(II) acetate",
+      "Cd(CH 3 COO) 2 2H 2 O",
+      "Cd(CH 3 COO) 2 H 2 O",
+      "Cd(CH3COO)2 H2O",
+      "Cadmium acetate monohydrate"
+    ],
+    [
+      "Cd(ClO 4 ) 2 H 2 O",
+      "Cd(ClO4)2 H2O",
+      "Cadmium perchlorate monohydrate"
+    ],
+    [
+      "Cd(ClO4)2·6H2O",
+      "cadmium perchlorate hexahydrate"
+    ],
+    [
+      "Cd(NO3) 2",
+      "Cd(NO 3 ) 3",
+      "Cd(NO3)2 4H2O",
+      "cadmium nitrate",
+      "Cadmium nitrate tetrahydrate",
+      "cadmium nitrate tetrahydrate",
+      "Cd(NO3)2 �?H 2 O",
+      "Cd(NO3)2·H2O",
+      "Cd(NO 3 ) 2",
+      "Cd(NO3)2",
+      "Cd(NO3)2·4H2O"
+    ],
+    [
+      "CdBr2·H2O",
+      "CdBr2"
+    ],
+    [
+      "CdCl2 -H 2 O",
+      "cadmium chloride",
+      "CdCl 2 H 2 O",
+      "Cadmium(II) chloride",
+      "CdCl2·H2O",
+      "CdCl2",
+      "CdCl 2"
+    ],
+    [
+      "CdSO4·8H2O",
+      "Cadmium sulfate octahydrate",
+      "CdSO 4 $8H 2 O",
+      "CdSO4",
+      "CdSO4 $8H 2 O",
+      "cadmium(II) sulfate",
+      "CdSO 4",
+      "CdSO4 8H2O",
+      "CdSO 4 8H 2 O"
+    ],
+    [
+      "Co(Ac) 2 ·4H 2 O",
+      "cobalt acetate tetrahydrate",
+      "cobalt(II) acetate tetrahydrate",
+      "Co(Ac)2 4H2O",
+      "Co(Ac)2·4H2O",
+      "Co(OAc)2·4H2O",
+      "Co(CH3COO)2·4H2O",
+      "Co(Ac) 2 *4H 2 O",
+      "Cobalt(II) acetate tetrahydrate",
+      "Co(CH 3 COO) 2 ◁H 2 O",
+      "Co(CH 3 COO) 2 ·H 2 O",
+      "cobalt(II) acetate",
+      "Co(OAc)2�?H2O",
+      "Co(Ac)2·H2O"
+    ],
+    [
+      "Co(ClO4)2 6H2O",
+      "Cobalt(II) perchlorate hexahydrate",
+      "Co(ClO4)2",
+      "Co(ClO4)2·6H2O",
+      "Co(ClO 4 ) 2 6H 2 O"
+    ],
+    [
+      "Co(NCS) 2",
+      "cobalt(II) thiocyanate"
+    ],
+    [
+      "Co(NO 3 )2.6H2O",
+      "Cobalt(II) nitrate",
+      "Co(NO3) 2·6H2O",
+      "Co(NO3)2·6H2O",
+      "Co(NO3)·6H2O",
+      "Co(NO3)2 6H2O",
+      "Cobalt nitrate hexahydrate",
+      "Co(NO3)2",
+      "cobalt nitrate hexahydrate",
+      "cobalt(II) nitrate hexahydrate",
+      "Co(NO 3 )"
+    ],
+    [
+      "CoSO4 7H2O",
+      "CoSO 4 7H 2 O",
+      "CoSO4·7H2O",
+      "cobalt(II) sulfate",
+      "cobalt sulfate",
+      "Cobalt(II) sulfate heptahydrate",
+      "CoSO 4·7H 2 O"
+    ],
+    [
+      "Copper chloride dihydrate",
+      "CuCl 2 2H 2 O",
+      "CuCl2·H2O",
+      "CuCl2",
+      "copper(II) chloride dihydrate",
+      "copper(II) chloride",
+      "copper chloride",
+      "Cu(ClO4)2",
+      "CuCl2.2H2O",
+      "CuCl2$2H2O",
+      "Copper(II) chloride dihydrate",
+      "CuCl2 2H2O"
+    ],
+    [
+      "Copper(II) nitrate hydrate",
+      "Cu(NO3)2·6H2O"
+    ],
+    [
+      "CrCl 3 �?H 2 O",
+      "CrCl 3⁢�?H 2 O",
+      "chromium(III) chloride"
+    ],
+    [
+      "Cu",
+      "Copper"
+    ],
+    [
+      "Cu",
+      "Cu powder",
+      "copper powder"
+    ],
+    [
+      "Cu(ClO4)2",
+      "Cu(ClO 4 ) 2 �?H 2 O",
+      "Ni(ClO4)2·H2O",
+      "Cu(ClO4)2·H2O"
+    ],
+    [
+      "Cu(ClO4)2·6H2O",
+      "Cu(NO3)2·3H2O",
+      "Cu(NO 3 ) 2",
+      "copper(II) nitrate",
+      "Cu(ClO 4 ) 2 6H 2 O",
+      "Copper perchlorate hexahydrate",
+      "copper nitrate trihydrate",
+      "copper(II) nitrate trihydrate",
+      "copper(II) perchlorate hexahydrate",
+      "Copper(II) nitrate trihydrate",
+      "Copper(II) perchlorate hexahydrate",
+      "Cu(HCOO)2·2H2O",
+      "Cu(ClO4)2?6H2O",
+      "Cu(ClO4)2 6H2O",
+      "Cu(NO3)2",
+      "copper perchlorate hexahydrate"
+    ],
+    [
+      "Cu(NO3)2·3H2O",
+      "Cu(NO 3 ) 2",
+      "Cu(NO 3 ) 2 3H 2 O",
+      "Cu(NO3)2",
+      "Copper nitrate hydrate",
+      "Cu(NO3)2 2H2O",
+      "copper nitrate",
+      "copper nitrate hydrate"
+    ],
+    [
+      "Cu(OH)2",
+      "copper(II) hydroxide"
+    ],
+    [
+      "Cu(hfac) 2",
+      "copper(II) hexafluoroacetylacetonate"
+    ],
+    [
+      "CuCl",
+      "Copper(I) chloride"
+    ],
+    [
+      "CuO",
+      "copper(II) oxide",
+      "Copper(II) oxide"
+    ],
+    [
+      "CuSO 4 ·5H 2 O",
+      "CuSO4",
+      "CuSO4 5H2O",
+      "copper(II) sulfate pentahydrate",
+      "CuSO 4 �?H 2 O",
+      "copper sulfate pentahydrate",
+      "CuSO4?5H2O",
+      "Copper(II) sulfate",
+      "CuSO 4",
+      "CuSO4·H2O",
+      "Cu(SO 4 ) 2 �?H 2 O",
+      "CuSO4·5H2O"
+    ],
+    [
+      "Dy 2 O 3",
+      "dysprosium oxide"
+    ],
+    [
+      "Er 2 O 3",
+      "erbium(III) oxide"
+    ],
+    [
+      "ErCl 3 ·xH 2 O",
+      "erbium(III) chloride"
+    ],
+    [
+      "Eu 2 O 3",
+      "europium(III) oxide",
+      "Eu2O3",
+      "Europium(III) oxide"
+    ],
+    [
+      "Eu(NO 3 ) 3 6H 2 O",
+      "Eu(NO3)3 6H2O",
+      "Europium(III) nitrate hexahydrate"
+    ],
+    [
+      "EuCl 3·6H 2 O",
+      "Europium(III) chloride hexahydrate",
+      "EuCl 3 6H 2 O",
+      "europium(III) chloride hexahydrate",
+      "EuCl3 6H2O",
+      "europium(III) chloride",
+      "EuCl3·6H2O"
+    ],
+    [
+      "Fe(ClO 4 ) 2 6H 2 O",
+      "iron(II) perchlorate",
+      "Fe(ClO 4 ) 2 ?4H 2 O"
+    ],
+    [
+      "Fe(NH4)2(SO4)2·6H2O",
+      "Fe(SO4)2·6H2O"
+    ],
+    [
+      "FeCl 2 .4H 2 O",
+      "FeCl 2",
+      "iron(II) chloride",
+      "ferrous chloride tetrahydrate",
+      "FeCl2 .4H 2 O"
+    ],
+    [
+      "FeCl 3",
+      "iron(III) chloride",
+      "FeCl 3 ?6H 2 O",
+      "FeCl3"
+    ],
+    [
+      "FeSO 4 .7H 2 O",
+      "FeSO4 7H2O",
+      "Ferrous sulfate heptahydrate"
+    ],
+    [
+      "Gd 2 O 3",
+      "Gd2O3",
+      "Gadolinium(III) oxide"
+    ],
+    [
+      "Gd(NO3)3 6H2O",
+      "Gd(NO 3 ) 3 6H 2 O",
+      "Gadolinium(III) nitrate hexahydrate"
+    ],
+    [
+      "Gd(NO3)3·6H2O",
+      "Gd(NO3)3",
+      "Gd(NO 3 ) 3 �?H 2 O",
+      "Gd(NO 3 ) 3",
+      "Gd2O3",
+      "Gd(NO3)3·H2O"
+    ],
+    [
+      "Hg(CF 3 COO) 2",
+      "mercury(II) trifluoroacetate"
+    ],
+    [
+      "HgCl2",
+      "HgCl 2",
+      "Mercury(II) chloride"
+    ],
+    [
+      "In(NO 3 ) 3 ·5H 2 O",
+      "indium nitrate hydrate"
+    ],
+    [
+      "K 6 P 2 W 18 O 62 �?15H 2 O"
+    ],
+    [
+      "K3[Cu(CN)6]",
+      "K3[Cr(CN)6]"
+    ],
+    [
+      "KAg(CN) 2",
+      "potassium argentocyanide"
+    ],
+    [
+      "La 2 O 3",
+      "lanthanum(III) oxide"
+    ],
+    [
+      "La(NO3)3 6H2O",
+      "La(NO 3 ) 3 6H 2 O",
+      "Lanthanum(III) nitrate hexahydrate"
+    ],
+    [
+      "LaCl 3 ·6H 2 O",
+      "LaCl 3"
+    ],
+    [
+      "Lead(II) nitrate",
+      "Pb(NO 3 ) 2",
+      "lead(II) nitrate",
+      "Pb(NO3)2",
+      "Pb(NO3)2·6H2O"
+    ],
+    [
+      "Manganese(II) nitrate tetrahydrate",
+      "Mn(NO3)2 4H2O",
+      "Mn(NO 3 ) 2 4H 2 O"
+    ],
+    [
+      "Mercury(II) bromide",
+      "HgBr 2",
+      "HgBr2"
+    ],
+    [
+      "Mercury(II) iodide",
+      "mercury(II) iodide",
+      "HgI2",
+      "HgI 2"
+    ],
+    [
+      "Mg(NO3)2 4H2O",
+      "Mg(NO 3 ) 2 4H 2 O",
+      "Magnesium nitrate tetrahydrate"
+    ],
+    [
+      "Mn(ClO4)2·6H2O",
+      "Manganese(II) perchlorate hexahydrate",
+      "Mn(ClO 4 ) 2 6H 2 O",
+      "Mn(ClO4)2",
+      "Mn(ClO 4 ) 2",
+      "manganese perchlorate",
+      "Mn(ClO4)2 6H2O"
+    ],
+    [
+      "Mn(CH 3 COO) 2 4H 2 O",
+      "Mn(CH3COO)2 4H2O",
+      "Mn(OAc)2 4H2O",
+      "Mn(Ac)2 4H2O",
+      "Manganese(II) acetate tetrahydrate",
+      "Mn(CH 3 COO) 2",
+      "Manganese(II) acetate",
+      "Mn(CH3COO)2",
+      "Mn(OAc)2",
+      "Mn(Ac)2",
+      "Mn(HCOO) 2 ·4H 2 O",
+      "Mn(HCOO)2",
+      "Mn(HCOO)2·4H2O",
+      "Mn(OAc)2 �?H 2 O",
+      "Mn(Ac)2·H2O",
+      "Mn(Ac)2·4H2O",
+      "Mn(Ac) 2",
+      "Mn(OAc)2·4H2O"
+    ],
+    [
+      "MnCl 2",
+      "MnCl2·H2O",
+      "MnCl2",
+      "Manganese(II) chloride"
+    ],
+    [
+      "MnSO 4 H 2 O",
+      "Manganese(II) sulfate monohydrate",
+      "MnSO4·H2O",
+      "MnSO4 H2O",
+      "MnSO4"
+    ],
+    [
+      "MoO3",
+      "Molybdenum trioxide",
+      "MoO 3"
+    ],
+    [
+      "Na2WO4·2H2O",
+      "NH 4 VO 3",
+      "Bi(NO3)3·5H2O",
+      "bismuth(III) nitrate",
+      "NH4VO3",
+      "Ba(NO3)2",
+      "Bi(NO 3 ) 3 ·5H 2 O",
+      "Ammonium metavanadate"
+    ],
+    [
+      "NaMoO 4 2H 2 O",
+      "Sodium molybdate dihydrate",
+      "NaMoO4 2H2O"
+    ],
+    [
+      "NaN",
+      "NaN 3",
+      "Sodium",
+      "Sodium azide"
+    ],
+    [
+      "NaWO 4 ·2H 2 O",
+      "Na2WO4 2H2O",
+      "Sodium tungstate dihydrate"
+    ],
+    [
+      "Nd(NO 3 ) 3 6H 2 O",
+      "neodymium(III) nitrate"
+    ],
+    [
+      "Ni(CF3COO)2 4H2O",
+      "Nickel(II) trifluoroacetate tetrahydrate",
+      "Ni(CF 3 COO) 2 4H 2 O"
+    ],
+    [
+      "Ni(CH3COO)2·4H2O",
+      "Nickel(II) acetate tetrahydrate",
+      "Ni(OAc) 2 4H 2 O",
+      "nickel(II) acetate",
+      "nickel(II) acetate tetrahydrate",
+      "nickel acetate tetrahydrate",
+      "Ni(OAc)2 4H2O",
+      "Ni(CH 3 COO) 2 ·4H 2 O",
+      "Ni(Ac) 2 $4H 2 O",
+      "Ni(CH 3 CO 2 ) 2 .4H 2 O"
+    ],
+    [
+      "Ni(ClO 4 ) 2 6H 2 O",
+      "Nickel(II) perchlorate hexahydrate",
+      "Ni(ClO4)2 6H2O"
+    ],
+    [
+      "Ni(OH) 2",
+      "nickel(II) hydroxide"
+    ],
+    [
+      "NiO",
+      "nickel(II) oxide"
+    ],
+    [
+      "NiSO 4 7H 2 O",
+      "NiSO4 7H2O",
+      "Nickel sulfate heptahydrate"
+    ],
+    [
+      "PbCO3",
+      "lead acetate",
+      "Pb(Ac) 2",
+      "Pb(Ac)2·3H2O",
+      "Pb(Ac)2 ?3H 2 O",
+      "lead(II) acetate",
+      "Pb(Ac)2",
+      "Pb(OAc)2",
+      "Pb(CH3COO)2",
+      "Pb(CH 3 COO) 2·3H 2 O",
+      "lead nitrate",
+      "Pb(CH3COO)2·3H2O",
+      "Pb(CH 3 CO 2 )·3H 2 O",
+      "Pb(AC) 2 3H 2 O"
+    ],
+    [
+      "Silver perchlorate",
+      "AgClO 4",
+      "AgClO4"
+    ],
+    [
+      "Silver tetrafluoroborate",
+      "silver tetrafluoroborate",
+      "AgBF4"
+    ],
+    [
+      "Sm 2 O 3",
+      "samarium(III) oxide"
+    ],
+    [
+      "Sr(CO 3 ) 2",
+      "strontium carbonate",
+      "Strontium carbonate",
+      "Sr(CO3)2"
+    ],
+    [
+      "Tb 4 O 7",
+      "terbium(III,IV) oxide"
+    ],
+    [
+      "Tb(NO3)3·6H2O",
+      "terbium(III) nitrate",
+      "Tb(NO 3 ) 2 ·6H 2 O",
+      "Tb(NO 3 ) 3",
+      "Tb(NO3)3"
+    ],
+    [
+      "TbCl 3 �?H 2 O",
+      "terbium(III) chloride"
+    ],
+    [
+      "TbCl3 6H2O",
+      "Terbium(III) chloride hexahydrate",
+      "TbCl 3 6H 2 O"
+    ],
+    [
+      "Terbium(III) nitrate hexahydrate",
+      "Tb(NO) 3 ·6H 2 O",
+      "Tb(NO3)3 6H2O"
+    ],
+    [
+      "Th(NO 3 ) 4 ·4H 2 O",
+      "thorium(IV) nitrate"
+    ],
+    [
+      "Trimethyltin chloride",
+      "trimethyltin chloride"
+    ],
+    [
+      "Y 2 O 3",
+      "yttrium(III) oxide"
+    ],
+    [
+      "Y(NO 3 ) 3 .6H 2 O",
+      "yttrium nitrate hexahydrate",
+      "yttrium(III) nitrate",
+      "Y(NO 3 ) 3 ·6H 2 O"
+    ],
+    [
+      "YCl 3 ·6H 2 O",
+      "yttrium(III) chloride"
+    ],
+    [
+      "Yb(NO 3 ) 3 ·5H 2 O",
+      "ytterbium nitrate"
+    ],
+    [
+      "Zinc oxide",
+      "ZnO"
+    ],
+    [
+      "Zn(CH 3 CO 2 ) 2 �?H 2 O",
+      "Zn(Ac)2 2H2O",
+      "zinc acetate dihydrate",
+      "Zn(OAc) 2 ·H 2 O",
+      "Zinc acetate dihydrate",
+      "zinc(II) acetate dihydrate",
+      "Zinc diacetate dihydrate",
+      "zinc acetate",
+      "zinc diacetate dihydrate",
+      "Zn(Ac)2·2H2O",
+      "Zn(CH 3 COO) 2 •H 2 O",
+      "Zn(CH 3 COO) 2",
+      "Zn(AC) 2 ¢2H 2 O",
+      "Zinc acetate",
+      "Zn(CH3COO)2·H2O",
+      "Zn(Ac)2·H2O",
+      "Zn(CH 3 COO) 2 2H 2 O",
+      "Zn(OAc)2",
+      "Zn(OAc) 2",
+      "Zn(Ac) 2 �?H 2 O"
+    ],
+    [
+      "Zn(ClO 4 ) 2",
+      "Zn(ClO4)2 �?H 2 O",
+      "Zn(ClO4)2·6H2O",
+      "Zn(ClO4)2 6H2O",
+      "Zn(ClO 4 ) 2 6H 2 O",
+      "Zinc perchlorate hexahydrate"
+    ],
+    [
+      "Zn(NO 3 ) 3",
+      "zinc(II) nitrate",
+      "Zn(NO3)3·H2O",
+      "zinc nitrate",
+      "Zinc(II) nitrate",
+      "Zn(NO3)2",
+      "Zn(NO 3 ) 2",
+      "Zn(NO 3 ) 2 �?H 2 O",
+      "zinc(II) nitrate hexahydrate",
+      "Zn(NO3)2 6H2O",
+      "zinc nitrate hexahydrate",
+      "Zn(NO3) 2",
+      "Zn(NO) 3 ·6H 2 O",
+      "Zn(NO3)2·6H2O",
+      "Zinc nitrate hexahydrate"
+    ],
+    [
+      "ZnCl 2",
+      "ZnCl2 ?H 2 O",
+      "ZnCl2·H2O",
+      "Zinc chloride",
+      "ZnCl2"
+    ],
+    [
+      "ZnSO 4 7H 2 O",
+      "ZnSO4 7H2O",
+      "ZnSO4",
+      "ZnSO4·7H2O",
+      "ZnSO4·H2O",
+      "Zinc sulfate heptahydrate"
+    ],
+    [
+      "[Au(mes)]",
+      "gold(III) acetate"
+    ],
+    [
+      "barium carbonate",
+      "BaCO3"
+    ],
+    [
+      "bismuth(III) chloride",
+      "BiCl 3"
+    ],
+    [
+      "cadmium iodide",
+      "CdI 2"
+    ],
+    [
+      "cerium nitrate hexahydrate",
+      "Cerium nitrate hexahydrate"
+    ],
+    [
+      "cerium(III) nitrate hexahydrate",
+      "Ce(NO 3 ) 3 $6H 2 O",
+      "cerium(III) nitrate"
+    ],
+    [
+      "cobalt chloride hexahydrate",
+      "CoCl2 6H2O",
+      "Cobalt(II) chloride hexahydrate"
+    ],
+    [
+      "cobalt nitrate hexahydrate",
+      "Co(NO 3 ) 2 6H 2 O",
+      "Co(NO3)2 6H2O",
+      "Cobalt(II) nitrate hexahydrate"
+    ],
+    [
+      "cobalt(II) chloride hexahydrate",
+      "CoCl2 ?H 2 O",
+      "CoCl 2",
+      "Cobalt(II) chloride",
+      "CoCl2·6H2O",
+      "CoCl2·H2O",
+      "CoCl2"
+    ],
+    [
+      "copper acetate hydrate",
+      "Cu(Ac) 2",
+      "copper acetate",
+      "Copper(II) acetate monohydrate",
+      "Cu(Ac)2·H2O",
+      "Cu(Ac)2 H2O",
+      "copper acetate monohydrate",
+      "Cu(Ac)2 H 2 O",
+      "copper(II) acetate monohydrate",
+      "copper(II) acetate",
+      "Copper(II) acetate",
+      "Cu(Ac) 2 H 2 O",
+      "Cu(Ac) 2 ·H 2 O",
+      "Cu(OAc) 2 ·H 2 O",
+      "Cu(CH3COO)2·H2O",
+      "Cu(CH 3 OO) 2",
+      "Cu(CH 3 COO) 2 •H 2 O",
+      "Cu(Ac)2",
+      "Cu(OAc)2",
+      "Cu(CH3COO)2 H2O"
+    ],
+    [
+      "copper(I) bromide",
+      "CuBr",
+      "Copper(I) bromide"
+    ],
+    [
+      "copper(I) cyanide",
+      "CuCN"
+    ],
+    [
+      "copper(I) iodide",
+      "CuI",
+      "Copper(I) iodide"
+    ],
+    [
+      "copper(II) tetrafluoroborate",
+      "Cu(BF 4 ) 2 ·6H 2 O",
+      "Cu(CH 3 CN) 4 BF 4"
+    ],
+    [
+      "dysprosium nitrate",
+      "Dy(NO 3 ) 3 ·6H 2 O"
+    ],
+    [
+      "dysprosium(III) chloride",
+      "DyCl 3 .6H 2 O"
+    ],
+    [
+      "dysprosium(III) nitrate",
+      "Dy(NO 3 ) 3 �?H 2 O"
+    ],
+    [
+      "europium(III) nitrate",
+      "Eu(NO3)3",
+      "Eu(NO 3 ) 3",
+      "europium nitrate hexahydrate",
+      "Eu(NO 3 ) 3 �?H 2 O",
+      "Eu(NO3)3·H2O"
+    ],
+    [
+      "gadolinium(III) chloride",
+      "GdCl 3"
+    ],
+    [
+      "lanthanum(III) nitrate",
+      "La(NO 3 ) 3 ?xH 2 O"
+    ],
+    [
+      "lead(II) chloride",
+      "PbCl2",
+      "PbCl 2",
+      "PbCl2·H2O"
+    ],
+    [
+      "lithium hydroxide",
+      "LiOH",
+      "KOH"
+    ],
+    [
+      "magnesium nitrate",
+      "Mg(NO 3 ) 2 ·6H 2 O"
+    ],
+    [
+      "magnesium nitrate hexahydrate",
+      "Mg(NO 3 ) 2 �?H 2 O",
+      "Mg(NO 3 ) 2"
+    ],
+    [
+      "manganese(II) carbonate",
+      "MnCO3"
+    ],
+    [
+      "Mn(ClO 4 ) 2 �?H 2 O"
+    ],
+    [
+      "manganese(II) nitrate",
+      "Mn(NO 3 ) 2 �?H 2 O",
+      "Mn(NO3)2·H2O"
+    ],
+    [
+      "nickel nitrate hexahydrate",
+      "Ni(NO3)2·6H2O",
+      "nickel nitrate",
+      "nickel(II) nitrate",
+      "Ni(NO3)2"
+    ],
+    [
+      "nickel(II) chloride",
+      "NiCl 2",
+      "NiCl2·6H2O",
+      "NiCl2"
+    ],
+    [
+      "nickel(II) sulfate",
+      "NiSO4·H2O",
+      "NiSO4",
+      "NiSO 4� H 2 O",
+      "NiSO 4 �?H 2 O",
+      "NiSO 4"
+    ],
+    [
+      "potassium hexacyanochromate(III)",
+      "[Cr(CN)6]K3"
+    ],
+    [
+      "potassium hexacyanocobaltate(III)",
+      "K 3 Co(CN) 6"
+    ],
+    [
+      "potassium hydroxide",
+      "KOH"
+    ],
+    [
+      "potassium tetrachloropalladate(II)",
+      "K 2 PdCl 4",
+      "potassium tetrachloropalladate"
+    ],
+    [
+      "potassium tetracyanocuprate(I)",
+      "K2PtCl4·6H2O",
+      "K3[Cu(CN)4]",
+      "K 3 [Cu(CN) 4]"
+    ],
+    [
+      "praseodymium(III) chloride",
+      "PrCl 3 .6H 2 O"
+    ],
+    [
+      "praseodymium(III) nitrate",
+      "Pr(NO3)3 6H2O",
+      "Praseodymium(III) nitrate hexahydrate",
+      "Pr(NO 3 ) 3 �?H 2 O",
+      "Pr(NO 3 ) 3 6H 2 O",
+      "Pr(NO 3 ) 3 $6H 2 O"
+    ],
+    [
+      "samarium(III) nitrate",
+      "Sm(NO 3 ) 3 6H 2 O",
+      "Sm(NO3)·6H2O",
+      "Sm(NO3)3·6H2O",
+      "Sm(NO3)3 6H2O",
+      "Sm(NO 3 ) 3 ?6H 2 O",
+      "Samarium(III) nitrate hexahydrate"
+    ],
+    [
+      "silicotungstic acid",
+      "H 4 SiW 12 O 40"
+    ],
+    [
+      "silver bromide",
+      "AgBr"
+    ],
+    [
+      "sodium metasilicate",
+      "Na 2 SiO 3 ·9H 2 O"
+    ],
+    [
+      "strontium chloride hexahydrate",
+      "SrCl 2 ·6H 2 O"
+    ],
+    [
+      "uranyl nitrate hexahydrate",
+      "UO2(NO3)2 6H2O",
+      "UO 2 (NO 3 )·6H 2 O",
+      "UO 2 (NO 3 ) 2 �?H 2 O",
+      "Uranyl nitrate hexahydrate",
+      "U(NO3)2·6H2O",
+      "UO 2 (NO 3 ) 2",
+      "UO2(NO3)2·6H2O",
+      "uranyl nitrate"
+    ],
+    [
+      "vanadium pentoxide",
+      "vanadium(V) oxide",
+      "Vanadium pentoxide",
+      "V 2 O 5",
+      "V2O5"
+    ],
+    [
+      "zinc tetraphenylporphyrin",
+      "ZnTPP"
+    ]
+  ],
+  "MOF_Modulator": [],
+  "MOF_OrganicLinker": [
+    [
+      "1,4-bis(triazol-1-ylmethyl)benzene",
+      "Bpa"
+    ],
+    [
+      "1,4-diazabicyclo[2.2.2]octane",
+      "DABCO"
+    ],
+    [
+      "1,2-Di(4-pyridyl)ethylene",
+      "Bpe"
+    ],
+    [
+      "2,20-bpy",
+      "2,2'-Bipyridine",
+      "2,2 0 -bipyridine",
+      "2,2?-bpy",
+      "2,2 0 -bipy",
+      "2,2'-bipyridine",
+      "2,2'-bpy",
+      "2,2�?bpy",
+      "2,2�?-bipyridine",
+      "2,2´-bipyridine",
+      "2,2bipyridine",
+      "2,2'-bipy",
+      "2,2’-bipyridine",
+      "2,2 0 -bpy",
+      "2,2′-bipyridine",
+      "2,2�?-bipy"
+    ],
+    [
+      "2,5-thiophene dicarboxylic acid",
+      "Thiophene-2,5-dicarboxylic acid"
+    ],
+    [
+      "2,6-H2 pdc",
+      "H 2 pdc",
+      "H2 PDC",
+      "H 2 PDC",
+      "pyridine-2,6-dicarboxylic acid"
+    ],
+    [
+      "2,6-pyridinedicarboxylic acid",
+      "H 2 pda"
+    ],
+    [
+      "2-Aminopyridine",
+      "2-aminopyridine"
+    ],
+    [
+      "Benzene-1,2-dicarboxylic acid",
+      "phthalic acid",
+      "o-benzenedicarboxylic acid"
+    ],
+    [
+      "Benzimidazole",
+      "bimb"
+    ],
+    [
+      "Citric Acid Monohydrate",
+      "citric acid monohydrate"
+    ],
+    [
+      "Ethylenediamine",
+      "en"
+    ],
+    [
+      "Fumaric Acid",
+      "H 2 fdc",
+      "Fumaric acid"
+    ],
+    [
+      "Glycine",
+      "glycine"
+    ],
+    [
+      "H 2 adp",
+      "Adipic Acid",
+      "Adipic acid",
+      "adipic acid"
+    ],
+    [
+      "H 2 bpdc",
+      "bpdc",
+      "H 2 BPDC"
+    ],
+    [
+      "H 2 pydc",
+      "Pyridine-2,3-dicarboxylic acid",
+      "pyridine 2,3dicarboxylic acid"
+    ],
+    [
+      "H 2 tpdc",
+      "Terephthalic Acid",
+      "H 2 tpda",
+      "Terephthalic acid"
+    ],
+    [
+      "H2 NDC",
+      "H2 naphthalene dicarboxylic acid"
+    ],
+    [
+      "H3 btc",
+      "H 3 BTC",
+      "BTC",
+      "H 4 BTC",
+      "H3 BTC",
+      "1,3,5-benzenetricarboxylic acid (H 3 BTC)",
+      "trimesic acid",
+      "H 3 btc",
+      "1,3,5-benzenetricarboxylic acid"
+    ],
+    [
+      "H4 BPTC",
+      "1,2,4,5-benzenetetracarboxylic acid"
+    ],
+    [
+      "Htrz",
+      "1,2,4-triazole"
+    ],
+    [
+      "KSCN",
+      "KCN"
+    ],
+    [
+      "Na 2 C 2 O 4",
+      "Na2 C2 O4",
+      "sodium oxalate"
+    ],
+    [
+      "NaN 3",
+      "sodium azide"
+    ],
+    [
+      "4,4-bpy",
+      "4,4 0 -bpy",
+      "4,4'-bipyridine",
+      "4,4bipyridine",
+      "bipyridine",
+      "4,4ˆ-bpy",
+      "Bipyridine",
+      "4,4-bipy",
+      "4,4’-bpy",
+      "4,4′-bpy",
+      "4,4′-bipyridine",
+      "4,4'-bipyridine",
+      "4,4-bpy",
+      "4,4'-bpy",
+      "4,4′-Bipyridine",
+      "4,4 0 -Bipyridine",
+      "bpy",
+      "4,4'-bipy",
+      "4,4�?-bpy",
+      "4,4�?-bipyridine",
+      "4,4 0 -bipyridyl",
+      "4,4'-bipyridyl",
+      "4,4 0 -bipyridine",
+      "4,4′-bipy",
+      "4,4 0 -bipy",
+      "bipy"
+    ],
+    [
+      "bix",
+      "bix dihydrate"
+    ],
+    [
+      "citric acid",
+      "H 3 Cit",
+      "Citric Acid"
+    ],
+    [
+      "imidazol",
+      "1-ethylimidazole",
+      "imidazole-4-carboxylic acid",
+      "Imidazole",
+      "imidazole"
+    ],
+    [
+      "isonicotinic acid",
+      "pyridine-2-carboxylic acid",
+      "isonicotinamide",
+      "pyridine-4-carboxylic acid",
+      "nicotinic acid",
+      "2-pyridinecarboxylic acid",
+      "Nicotinic Acid",
+      "5-Bromonicotinic acid",
+      "pyridine-4-carboxylicacid"
+    ],
+    [
+      "isophthalic acid",
+      "Isophthalic Acid"
+    ],
+    [
+      "naphthalene-1-carboxylic acid",
+      "Naphthalene-1-carboxylic acid",
+      "1-naphthoic acid"
+    ],
+    [
+      "oxalic acid dihydrate",
+      "H 2 C 2 O 4",
+      "Oxalic Acid",
+      "oxydiacetic acid",
+      "oxalic acid",
+      "K 2 C 2 O 4 ?H 2 O",
+      "oxalic acid hydrate"
+    ],
+    [
+      "phenanthroline monohydrate",
+      "1,10-Phenanthroline",
+      "1,10-phenanthroline monohydrate",
+      "1,10phenanthroline",
+      "1,10-phenantroline",
+      "phenanthroline",
+      "1,10-phenanthroline hydrate",
+      "1,10-Phenanthroline monohydrate",
+      "1,10-phen",
+      "phen",
+      "1,10-Phen",
+      "1,10-phenanthroline",
+      "phen.H2O"
+    ],
+    [
+      "piperazine",
+      "Piperazine"
+    ],
+    [
+      "pyrazine",
+      "pyrazine carboxylic acid",
+      "Pyrazine",
+      "2-pyrazinecarboxylic acid"
+    ],
+    [
+      "pyrazole",
+      "pyrazine",
+      "Pyrazole",
+      "pyz",
+      "Pyrazine"
+    ],
+    [
+      "sodium dicyanamide",
+      "Na(dca)",
+      "NaN(CN) 2"
+    ],
+    [
+      "succinic acid",
+      "Succinic acid",
+      "H 2 Suc",
+      "Succinic Acid"
+    ],
+    [
+      "terephthalic acid",
+      "H2 bdc",
+      "1,4-Benzenedicarboxylic Acid",
+      "terephthalic acid (H2 BDC)",
+      "1,4-H2 BDC",
+      "H2bdc",
+      "1,4-H 2 bdc",
+      "1,4-benzenedicarboxylic acid (H 2 BDC)",
+      "terephthalic acid (H 2 BDC)",
+      "benzene-1,4-dicarboxylic acid",
+      "1,4-benzenedicarboxylic acid",
+      "1,3-H 2 BDC",
+      "1,4-H 2 BDC",
+      "H 2 bdc",
+      "p-benzenedicarboxylic acid",
+      "H 2 BDC"
+    ]
+  ],
+  "MOF_Solvent": [
+    [
+      "2-propanol",
+      "iPrOH",
+      "isopropanol",
+      "isopropyl alcohol"
+    ],
+    [
+      "3 M HCl",
+      "hydrochloric acid",
+      "concentrated hydrochloric acid",
+      "HCl (conc.)",
+      "concentrated HCl",
+      "HCl",
+      "1.0 M HCl"
+    ],
+    [
+      "Acetic acid",
+      "acetic acid",
+      "glacial acetic acid",
+      "CH 3 COOH"
+    ],
+    [
+      "AgNO3",
+      "HNO 3",
+      "concentrated nitric acid",
+      "nitric acid",
+      "HNO3"
+    ],
+    [
+      "CH 3 CN",
+      "MeCN",
+      "CH 3 CN/H 2 O",
+      "water–acetonitrile mixture",
+      "acetonitrile",
+      "CH 3 CN-H 2 O",
+      "CH3CN",
+      "Acetonitrile"
+    ],
+    [
+      "CHCl 3 ",
+      "chloroform",
+      "CHCl3"
+    ],
+    [
+      "DMF/H 2 O",
+      "N,N-dimethylformamide",
+      "N,N 0-dimethylformamide (DMF)",
+      "N,N′-dimethylformamide",
+      "DMF in water (50 vol %)",
+      "N,N�dimethylformamide (DMF)",
+      "N,N-Dimethylformamide",
+      "dimethylformamide",
+      "N,Ndimethylformamide (DMF)",
+      "DMF/water",
+      "diethylenetriamine",
+      "N,N 0 -dimethylformamide (DMF)",
+      "DMF (N,N-dimethylformamide)",
+      "dimethylformamide (DMF)",
+      "DMF-H 2 O",
+      "DMF–H2O",
+      "DMF",
+      "N,N-dimethylformamide (DMF)",
+      "dimethylformide"
+    ],
+    [
+      "Ethanol",
+      "alcoholic solution",
+      "ethanol (EtOH)",
+      "CH3CH2OH",
+      "H 2 O/EtOH",
+      "H 2 O–C 2 H 5 OH",
+      "ethanol",
+      "H2O/EtOH mixture",
+      "95 %ethanol",
+      "C 2 H 5 OH",
+      "ethanol:water",
+      "ethyl acetate",
+      "CH 3 CH 2 OH/H 2 O",
+      "aqueous ethanol",
+      "EtOH/H2O",
+      "EtOH",
+      "ethanolic 96% solution",
+      "ethanol+water",
+      "ethanol/water mixture",
+      "ethanolic solution",
+      "ethanol–water mixture",
+      "absolute ethanol",
+      "EtOH/H2O (1:1, v/v)",
+      "CH 3CH 2 OH",
+      "CH 3 CH 2 OH",
+      "EtOH/H 2 O (1:1, v/v)",
+      "ethanol solution",
+      "50% aqueous ethanol",
+      "95% ethanol",
+      "ethanol and water",
+      "ethanol (95%)",
+      "water/ethanol mixture",
+      "ethanol鈥搘ater solution",
+      "ethanol/water",
+      "ethanol/water solution",
+      "anhydrous ethanol",
+      "ethanol卤water (1:1)",
+      "ethanol/H 2 O",
+      "H2O/ethanol",
+      "water/ethanol"
+    ],
+    [
+      "1-butanol"
+    ],
+    [
+      "HF",
+      "hydrofluoric acid"
+    ],
+    [
+      "NMP",
+      "N-methyl-2-pyrrolidone"
+    ],
+    [
+      "NaOH solution",
+      "NaOH aqueous solution",
+      "NaOH",
+      "sodium hydroxide",
+      "10 M NaOH aqueous solution"
+    ],
+    [
+      "THF",
+      "tetrahydrofuran",
+      "tetrahydrofuran (THF)",
+      "dry THF"
+    ],
+    [
+      "acetone"
+    ],
+    [
+      "ammonia",
+      "ammonium hydroxide",
+      "aqueous ammonia",
+      "ammonia solution",
+      "ammonium hydroxide (20%)",
+      "30% aqueous ammonia solution",
+      "Ammonium hydroxide",
+      "aqueous ammonia (25%)",
+      "aqueous ammonia solution",
+      "ammonia-water",
+      "NH 3 H 2 O",
+      "\"NH 3 H 2 O\""
+    ],
+    [
+      "diethoxyethane",
+      "diethylene glycol",
+      "DME",
+      "1,2-dimethoxyethane"
+    ],
+    [
+      "diethylformamide (DEF)",
+      "diethylformamide",
+      "DEF",
+      "N,N-dimethylformamide (DMF) or N,N-diethylformamide (DEF)",
+      "N,N-diethylformamide",
+      "DEF (N,N-diethylformamide)"
+    ],
+    [
+      "dimethyl sulfoxide",
+      "dimethylsulfoxide",
+      "dimethyl sulfoxide (DMSO)",
+      "DMSO"
+    ],
+    [
+      "dimethylacetamide (DMA)",
+      "N,N'dimethylacetamide (DMA)",
+      "dimethylacetamide",
+      "N,N-diethylformamide (DEF)",
+      "DMA",
+      "N,N-dimethylacetamide (DMA)",
+      "DMA solution",
+      "DEF"
+    ],
+    [
+      "dioxane",
+      "1,4-dioxane"
+    ],
+    [
+      "dry CH 2 Cl 2",
+      "DCM",
+      "CH 2 Cl 2",
+      "Dichloromethane",
+      "1,2-dichloroethane",
+      "CH 2 Cl 2 ",
+      "CH2Cl2",
+      "dichloromethane",
+      "methylene chloride"
+    ],
+    [
+      "ethyl ether",
+      "diethyl ether",
+      "diethylether",
+      "Et 2 O",
+      "ether"
+    ],
+    [
+      "ethylene glycol",
+      "EG"
+    ],
+    [
+      "formic acid",
+      "HCOOH"
+    ],
+    [
+      "methanolic",
+      "methanol/deionised water",
+      "80% aqueous methanol",
+      "CH3OH and H2O",
+      "methanol solution",
+      "water/MeOH",
+      "Methanol",
+      "50% MeOH",
+      "aqueous solution of sodium azide",
+      "water/methanol",
+      "aqueous methanol",
+      "methanol and water",
+      "H2O/MeOH",
+      "methanolic solution",
+      "H2O/CH3OH",
+      "methanol",
+      "methyl alcohol",
+      "CH3OH–H2O",
+      "CH3OH",
+      "aqueous-alcohol solution",
+      "CH 3 OH",
+      "CH 3 OH/H 2 O (1:1 v/v)",
+      "CH 3 OH and CHCl 3 (1:1)",
+      "water/methanol",
+      "aqueous/methanolic solution",
+      "methanol/water",
+      "water±methanol solution",
+      "CH3OH:CH2OH (3:1)",
+      "CH 3 OH/H 2 O",
+      "methanol/water mixture",
+      "H 2 O/CH 3 OH",
+      "MeOH",
+      "CH3OH and CHCl3",
+      "anhydrous methanol"
+    ],
+    [
+      "n-heptane",
+      "heptane"
+    ],
+    [
+      "nitrobenzene",
+      "benzene"
+    ],
+    [
+      "petroleum ether",
+      "n-pentane",
+      "n-hexane",
+      "hexane",
+      "hexanes",
+      "pentane"
+    ],
+    [
+      "potassium hydroxide",
+      "KOH aqueous solution",
+      "KOH solution",
+      "KOH"
+    ],
+    [
+      "purified water",
+      "demineralized water",
+      "DI water",
+      "puriﬁed water",
+      "MilliQ water",
+      "hot aqueous solution",
+      "deionized water",
+      "degassed H2O",
+      "doubly-distilled water",
+      "H2O",
+      "degassed water",
+      "Water",
+      "water solution",
+      "milliQ water",
+      "aqueous mixture",
+      "water",
+      "H 2 O",
+      "distillated water",
+      "distilled H 2 O",
+      "deionised water",
+      "aqueous solutions",
+      "aqueous",
+      "distilled H2O",
+      "distilled water",
+      "doubly distilled water",
+      "hot water",
+      "deionized H 2 O",
+      "aqueous solution"
+    ],
+    [
+      "pyridine",
+      "py"
+    ],
+    [
+      "toluene",
+      "dry toluene"
+    ],
+    [
+      "triethylamine",
+      "TEA"
+    ]
+  ]
+}

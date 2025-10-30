@@ -1,0 +1,11 @@
+precursor_name,cnt,type
+ZrCl4,428,MetalSource
+ZrOCl2·8H2O,34,MetalSource
+DMF,510,Solvent
+H2BDC,467,OrganicLinker
+HAc,101,Modulator
+HCl,91,Modulator
+BA,25,Modulator
+formic acid,17,Modulator
+H2O,9,Modulator
+PVP,5,Modulator
