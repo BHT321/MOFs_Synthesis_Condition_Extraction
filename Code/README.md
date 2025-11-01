@@ -1,7 +1,7 @@
 # Documentation
 ## Overview
 1.  Synthesis_Paragraph_Extraction    
-    The code is used to train a binary classification model to determine whether a paragraph contains a full set of MOFs synthesis conditions and then extract the synthesis paragraph using      the fine-tuned model.
+    The code is used to extract synthesis paragraphs from MOFs literature using a fine-tuned BERT classification model.
     
     More details in `Synthesis_Paragraph_Extraction/README.md`
     
@@ -15,7 +15,7 @@
     More details in `CSD_MOFs_density_predition/README.md`
 
 5. UiO66_MOFs_surface_area_prediction     
-    The code is used to process the extraction results of 261 WoS-UiO66 MOFs. By cleansing data, the extraction results are used to train random forest model to predict MOFs surface area.    
+    The code is used to process the extraction results of 261 WoS-UiO66 MOFs and prepare formatted data for surface area prediction.    
     More details in `UiO66_MOFs_surface_area_prediction/README.md`
 ## Requirement
 **Operation system**: Ubuntu 20.04  
